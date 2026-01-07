@@ -1,0 +1,66 @@
+@use "../all-vars" as *;
+
+.contacts{
+	position: relative;
+	padding-top: var(--block-spacing--shallow);
+	padding-bottom: var(--block-spacing);
+	&__list{
+		margin-top: var(--block-spacing);
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		align-items: baseline;
+		justify-content: center;
+		row-gap: .6em;
+		column-gap: 1.2em;
+		li{
+			list-style: none;
+			width: auto;
+		}
+	}
+	&__link{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: .5em;
+		.icon{
+			width: 2.5em;
+			height: 2.5em;
+			border: 2px solid var(--color-accent);
+			border-radius: 50%;
+			color: var(--color-foreground);
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			@mixin iconDefaults{
+				position: relative;
+				background-color: currentColor;
+				content: '';
+				display: block;
+				width: 20px;
+				height: 20px;
+			}
+			&--email{
+				&::before{
+					@include iconDefaults;
+					mask: url("../img/icons/email.svg") no-repeat center / contain;
+					-webkit-mask: url("../img/icons/email.svg") no-repeat center / contain;
+				}
+			}
+			&--x{
+				&::before{
+					@include iconDefaults;
+					mask: url("../img/icons/x.svg") no-repeat center / contain;
+					-webkit-mask: url("../img/icons/x.svg") no-repeat center / contain;
+				}
+			}
+			&--nostr{
+				&::before{
+					@include iconDefaults;
+					mask: url("../img/icons/nostr.svg") no-repeat center / contain;
+					-webkit-mask: url("../img/icons/nostr.svg") no-repeat center / contain;
+				}
+			}
+		}
+	}
+}

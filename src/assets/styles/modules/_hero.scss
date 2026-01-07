@@ -1,0 +1,41 @@
+@use "../all-vars" as *;
+
+.hero{
+	position: relative;
+	padding-top: var(--block-spacing);
+	padding-bottom: var(--block-spacing);
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+	.loaded &{
+		background-image: url(../img/chains-breaking.webp);
+	}
+	&::after{
+		content: '';
+		width: 100%;
+		height: 1px;
+		border-bottom: 1px dashed var(--color-foreground);
+		position: absolute;
+		bottom: -1rem;
+	}
+	&__inner{
+		@extend .content-container;
+	}
+	p{
+		@include text-display;
+		margin-bottom: 0;
+		color: var(--color-foreground-inv);
+		line-height: 1.4;
+		.text{
+			background: rgba(0,0,0,.8);
+			padding: var(--gutter-padding);
+			display: inline-block;
+			position: relative;
+			left: calc(-1 * var(--gutter-padding));
+		}
+	}
+	.hero__highlight{
+		color: var(--color-accent);
+	}
+}

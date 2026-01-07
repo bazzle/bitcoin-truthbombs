@@ -1,0 +1,72 @@
+@use "../all-vars" as *;
+
+p.outset-text{
+	line-height: 1.4;
+	color: var(--color-accent-alt);
+	border-left: 2px solid var(--color-accent-alt);
+	padding-left: 2rem;
+	position: relative;
+}
+
+h1, h2, h3, h4, h5, h6{
+	&:not([class]){
+		@include text-heading;
+	}
+}
+h3, h4, h5, h6{
+	&:not([class]){
+		font-size: var(--font-size-heading-small);
+	}
+}
+
+h1, h2, h3, h4, h5, h6{
+	&:not([class]){
+		margin-bottom: var(--block-spacing--heading);
+	}
+}
+
+p, ul, ol{
+	&:not([class]){
+		margin-bottom: var(--block-spacing--text);
+	}
+
+	> *:last-child {
+		margin-bottom: 0!important;
+	}
+}
+
+p, li{
+	&:not([class]){
+		max-width: var(--content-width);
+		@include text-std;
+		width: 100%;
+		max-width: var(--content-width);
+		@media print{
+			max-width: 100rem;
+		}
+	}
+}
+li{
+	&:not([class]){
+		margin-bottom: .6rem;
+		list-style-position:inside;
+		&:last-of-type{
+			margin-bottom: 0;
+		}
+	}
+	&::marker{
+		color: var(--color-accent-a11y-text);
+	}
+}
+
+code{
+	background: var(--color-bg-off-solid);
+	font-size: 80%;
+}
+
+pre code{
+	display: block;
+	text-wrap: wrap;
+	padding: 1em;
+	border: 1px solid var(--color-feint-line);
+} 

@@ -1,0 +1,22 @@
+@use "../all-vars" as *;
+
+.download{
+	position: relative;
+	padding-top: var(--block-spacing--shallow);
+	&::before{
+		content: '';
+		width: 100%;
+		height: 1px;
+		border-bottom: 1px dashed var(--color-foreground);
+		position: absolute;
+		top: -1rem;
+	}
+	&__button-group{
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+		gap: 1rem;
+		margin-top: var(--block-spacing--shallow);
+	}
+}

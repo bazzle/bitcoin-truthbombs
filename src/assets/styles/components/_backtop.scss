@@ -1,0 +1,32 @@
+.backTop{
+	position: fixed;
+	bottom: -2px;
+	z-index: 10;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	display: block;
+	right: 4rem;
+	height: 4rem;
+	margin-bottom: 0;
+	color: var(--color-foreground-inv);
+	border-bottom: 0;
+	border-style: solid;
+	border-width: 0;
+	z-index: 2;
+	opacity: 0;
+	transition: opacity 0.2s ease;
+	&.visible {
+		opacity: 1;
+	}
+	&:hover, &:focus{
+		border-width: 1px;
+		border-color: var(--color-foreground);
+	}
+	svg{
+		height: 4rem;
+		width: 4rem;
+		path{
+			fill: var(--color-foreground-inv);
+		}
+	}
+}

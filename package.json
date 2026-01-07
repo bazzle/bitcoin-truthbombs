@@ -1,0 +1,24 @@
+{
+	"name": "bitcoin-truthbombs",
+	"version": "1",
+	"description": "Bitcoin Truthbombs Website",
+	"main": "index.js",
+	"repository": "https://github.com/bazzle/bitcoin-truthbombs",
+	"author": "Barry Richards",
+	"scripts": {
+		"build:scss": "sass src/assets/styles/main.scss _site/assets/styles/main.css --style=compressed",
+		"build:11ty": "eleventy",
+		"esbuild": "esbuild src/assets/scripts/main.js --bundle --minify --format=esm --outfile=_site/assets/scripts/main.js",
+		"build": "yarn build:scss && yarn build:11ty && yarn esbuild",
+		"watch:scss": "sass --watch src/assets/styles/main.scss:_site/assets/styles/main.css",
+		"dev": "concurrently \"yarn watch:scss\" \"eleventy --serve\""
+	},
+	"dependencies": {
+		"@11ty/eleventy": "^3.1.2",
+		"concurrently": "^9.2.0",
+		"sass": "^1.65.0"
+	},
+	"devDependencies": {
+		"esbuild": "^0.27.2"
+	}
+}

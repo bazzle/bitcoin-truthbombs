@@ -1,0 +1,218 @@
+@use "sass:map";
+
+/* Useful helpers -------------------------------------- */
+
+@mixin light-mode-wrapper {
+	body.light-mode &{
+		@content;
+	}
+	@media print{
+		@content;
+	}
+}
+
+/* Fonts ------------------------------------------------- */
+
+// <weight>: Use a value from 300 to 900
+.merriweather-bold{
+	font-family: "Merriweather", serif;
+	font-optical-sizing: auto;
+	font-weight: 680;
+	font-style: normal;
+	font-variation-settings:
+		"wdth" 100;
+}
+.merriweather-std{
+	font-family: "Merriweather", serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+	font-variation-settings:
+		"wdth" 100;
+	strong, b{
+		font-weight: 680;
+	}
+}
+
+// <weight>: Use a value from 100 to 900
+.piazzolla-std {
+  font-family: "Piazzolla", serif;
+  font-optical-sizing: auto;
+  font-weight: 650;
+  font-style: normal;
+}
+.piazzolla-bold {
+  font-family: "Piazzolla", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Type mixins ----------------------------------------------- */
+
+
+@mixin text-display{
+	@extend .merriweather-bold;
+	font-size: var(--font-size-display);
+	font-style: normal;
+	line-height: 1.2;
+	font-weight: 760;
+}
+
+
+@mixin text-std{
+	@extend .merriweather-std;
+	font-size: var(--font-size-std);
+	line-height: 1.4;
+}
+
+@mixin text-link-defaults{
+	@extend .merriweather-std;
+	font-weight: 680;
+	color: var(--color-foreground);
+	text-decoration: underline;
+	text-underline-offset: 2px;
+	text-decoration-thickness: 1px;
+	text-decoration-color: var(--color-accent);
+	&:hover, &:focus-visible{
+		text-decoration: none;
+	}
+}
+
+@mixin text-link{
+	@include text-link-defaults;
+	text-decoration: underline;
+	&:hover, &:focus-visible{
+		text-decoration: none;
+	}
+}
+
+@mixin standalone-link{
+	@include text-link-defaults;
+	text-decoration: underline;
+	text-underline-offset: 0.1em;
+	text-decoration-thickness: .05em;
+	&:hover, &:focus-visible{
+		text-decoration: none;
+	}
+}
+
+@mixin text-heading-defaults{
+	@extend .piazzolla-std;
+	color: var(--color-foreground);
+	line-height:1.2;
+}
+
+@mixin text-heading{
+	@include text-heading-defaults;
+	font-size: var(--font-size-heading);
+}
+
+@mixin text-heading-small{
+	@include text-heading-defaults;
+	font-size: var(--font-size-heading-small);
+}
+
+@mixin text-blocky{
+	@extend .merriweather-bold;
+	text-transform: uppercase;
+	font-size: var(--font-size-blocky);
+	letter-spacing: .03em;
+}
+
+@mixin text-tiny{
+	@extend .merriweather-std;
+	font-size: var(--font-size-tiny);
+	line-height: 1.4;
+}
+
+
+main{
+	min-height: 80vh;
+}
+
+/* Breakpoints ------------------------------------------------- */
+
+$breakpoints: (
+    mobile: 359px,
+    mobile-land: 512px,
+    tablet: 641px,
+    desktop: 800px,
+    desktop-mini: 880px,
+    desktop-med: 1025px,
+    mobile-nav: 1090px,
+    desktop-wide: 1200px,
+    desktop-wider: 1340px,
+    desktop-xl: 1408px,
+	site-width-margins: var(--site-width--margins),
+	site-width: var(--site-width)
+);
+$breakpoints--h: (
+    letterbox: 900px
+);
+
+// breakpoint mixins
+@mixin break($breakpoint: medium) {
+	@if map.has-key($breakpoints, $breakpoint) {
+		@media screen and (min-width: map.get($breakpoints, $breakpoint)) {
+			@content;
+		}
+	}
+}
+
+@mixin break-under($breakpoint: medium) {
+	@if map.has-key($breakpoints, $breakpoint) {
+	  @media screen and (max-width: map.get($breakpoints, $breakpoint)) {
+		  @content;
+	  }
+	}
+}
+
+@mixin break-between($breakpoint-lower, $breakpoint-higher){
+	@media screen and (min-width: map.get($breakpoints, $breakpoint-lower)) and (max-width: map.get($breakpoints, $breakpoint-higher)) {
+		@content;
+	}
+}
+
+// height 
+@mixin break--h($breakpoint) {
+	@if map.has-key($breakpoints--h, $breakpoint) {
+		@media screen and (max-height: map.get($breakpoints--h, $breakpoint)) and (orientation: landscape) {
+			@content;
+		}
+	}
+}
+
+/* Layout ----------------------------------------------- */
+
+.container{
+	position: relative;
+	width: 100%;
+	max-width: var(--site-width-margins);
+	margin: 0 auto;
+	padding-left: var(--gutter-padding);
+	padding-right: var(--gutter-padding);
+	&--vertical-fill{
+		height:100%;
+		flex-grow: 1;
+		display: flex;
+		flex-direction: column;
+	}
+}
+
+.content-container{
+	width: 100%;
+	max-width: var(--content-width);
+	margin: 0 auto;
+	padding-left: var(--gutter-padding);
+	padding-right: var(--gutter-padding);
+}
+
+/* Typography ----------------------------------------------- */
+
+.section-head{
+	text-decoration: underline;
+	text-decoration-color: var(--color-accent);
+	text-decoration-thickness: 3px;
+	text-align: center;
+}
