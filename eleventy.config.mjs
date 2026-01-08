@@ -5,6 +5,11 @@ export default function(eleventyConfig) {
 		"src/assets/styles/variables.css": "assets/styles/variables.css",
 		"src/assets/img/favicon": "/"
 	});
+	eleventyConfig.addCollection("posts", function (collectionApi) {
+		return collectionApi.getFilteredByTag("posts").filter(post => {
+			return post.data.permalink !== false;
+		});
+	});
 	const pathPrefix = "/";
 	return {
 		pathPrefix: pathPrefix,
