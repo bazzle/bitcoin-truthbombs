@@ -1,0 +1,52 @@
+blockquote.wp-block-quote{
+    @include gap(margin-top, 2);
+    @include gap(margin-bottom, 2);
+    @include offset-occupy;
+    @include break(site-width){
+        padding-left: $content-offset;
+    }
+    &::before{
+        position: absolute;
+        left: 0;
+        top: -1.4rem;
+        content:'';
+        width:35px;
+        height:24px;
+        display: block;
+        background-image: url(#{$path-images}/quotemark.svg);
+        background-size: cover;
+    }
+    p{
+        position: relative;
+        @include text-blockquote;
+        color: $color-primary--light;
+        display: block;
+        padding-left: unset;
+        max-width: unset;
+        &:first-of-type{
+            border-top: 1px solid $color-accent--light;
+            @include gap(padding-top);
+        }
+        &:last-of-type{
+            margin-bottom: 0;
+        }
+    }
+    cite{
+        font-size: 2.6rem;
+        display: block;
+        padding-top: .6em;
+        line-height: 1;
+        @include text-cite;
+        @include gap(padding-top);
+    }
+    &.blockquote--long{
+        p{
+            line-height: 1.8;
+            font-size: 2.2rem;
+            color: $color-text;
+        }
+        cite{
+            font-size: 2.4rem;
+        }
+    }
+}

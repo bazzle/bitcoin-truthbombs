@@ -1,0 +1,46 @@
+.o-header-frontpage{
+  @include gap(padding-top,2);
+  @include gap(padding-bottom);
+  @include break(tablet){
+    padding-bottom:0;
+  }
+  position: relative;
+  &__logo{
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    color: $color-bitcoin;
+    transform: translate(-50%, -55%);
+    background: black;
+    padding: 1.5rem;
+    svg{
+      @include break-under(tablet){
+        position: relative;
+        width: 20px;
+        top: 5px;
+      }
+    }
+  }
+  &__site-name-tag{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    @include gap(padding-bottom,2);
+  }
+  &__site-name{
+    color: $white;
+    font-size: 3.2rem;
+    @include text-site-name;
+  }
+  &__site-tagline{
+    color: $white;
+    @include text-site-tagline;
+  }
+  &__divider{
+    position: relative;
+    width: 100%;
+    border-bottom: 1px solid $color-accent;
+    z-index: -1;
+  }
+}
