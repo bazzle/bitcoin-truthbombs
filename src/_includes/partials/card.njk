@@ -1,38 +1,38 @@
 <div class="c-card">
-    <div class="c-card__thumb">
-        {% assign data = post.data %}
-        {% assign imageBase = data.image %}
-        {% if imageBase %}
-            <img
-                src="/assets/img/featured/{{ imageBase }}-medium.jpg"
-                alt="Featured image for {{ data.title }}"
-                loading="lazy"
-                decoding="async"
-            />
-        {% endif %}
-    </div>
-    <div class="c-card__main">
-        <h1 class="c-card__title">
-            {{ data.title }}
-            <a class="c-card__title__link" href="{{ post.url }}">
-                <span class="visually-hidden">Read about {{ data.title }}</span>
-            </a>
-        </h1>
-        <div class="c-card__metadata">
-            <div class="c-card__metadata__item">
-                Date: {{ post.date | date: "%m.%d.%y" }}
-            </div>
-            {% if data.block_height %}
-                <span class="c-card__metadata__divider">/</span>
-                <div class="c-card__metadata__item">
-                    Block height: {{ data.block_height }}
-                </div>
-            {% endif %}
-        </div>
-        <div class="c-card__excerpt">
-            <p>
-                {{ data.excerpt }}
-            </p>
-        </div>
-    </div>
+	<div class="c-card__thumb">
+		{% assign data = post.data %}
+		{% assign imageBase = data.image %}
+		{% if imageBase %}
+			<img
+				src="/assets/img/featured/{{ imageBase }}-medium.jpg"
+				alt="Featured image for {{ data.title }}"
+				loading="lazy"
+				decoding="async"
+			/>
+		{% endif %}
+	</div>
+	<div class="c-card__main">
+		<h1 class="c-card__title">
+			{{ data.title }}
+			<a class="c-card__title__link" href="{{ post.url }}">
+				<span class="visually-hidden">Read about {{ data.title }}</span>
+			</a>
+		</h1>
+		<div class="c-card__metadata">
+			<div class="c-card__metadata__item">
+				Date: {{ post.date | date: "%m.%d.%y" }}
+			</div>
+			{% if data.block_height %}
+				<span class="c-card__metadata__divider">/</span>
+				<div class="c-card__metadata__item">
+					Block height: {{ data.block_height }}
+				</div>
+			{% endif %}
+		</div>
+		<div class="c-card__excerpt">
+			<p>
+				{{ data.excerpt }}
+			</p>
+		</div>
+	</div>
 </div>

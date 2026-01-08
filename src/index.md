@@ -1,5 +1,3 @@
 ---
-layout: layouts/base.njk
+layout: layouts/home.njk
 ---
-
-{% include "partials/grid.njk" %}
