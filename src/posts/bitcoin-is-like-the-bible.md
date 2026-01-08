@@ -1,5 +1,6 @@
 ---
 date: 2023-02-05
+title: "Bitcoin is like the bible"
 excerpt: 'Article idea &#8211; Bitcoin is like the bible. Immutable, distributed, just information, a different version of the bible can be made, but how are you going to replace every single single version of the bible in existence. It will likely get rejected.'
 permalink: false
 image: bitcoin-symbol-2

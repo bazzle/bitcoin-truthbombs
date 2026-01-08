@@ -1,5 +1,6 @@
 ---
 date: 2023-10-19
+title: "A Sly, Roundabout way"
 excerpt: ''
 permalink: false
 image: bitcoin-symbol-2

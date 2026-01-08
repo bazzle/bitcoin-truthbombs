@@ -1,5 +1,6 @@
 ---
 date: 2023-02-05
+title: "Bitcoin is decentralised"
 excerpt: 'Why is that important? Mention Geodesic domes'
 permalink: false
 image: bitcoin-symbol-2

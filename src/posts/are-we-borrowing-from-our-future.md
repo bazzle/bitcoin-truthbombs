@@ -1,5 +1,6 @@
 ---
 date: 2021-08-30
+title: "Borrowing from our future"
 modified: 2023-03-23
 excerpt: 'The perhaps unexpected answer is, our children. Through the hidden tax that is inflation. Just like is happening now, our children will have to work harder and harder to maintain their quality of life. As the money they are being paid in loses value in real terms, at an ever increasing rate. Future generations will [&hellip;]'
 permalink: false

@@ -1,5 +1,6 @@
 ---
 date: 2023-10-23
+title: "Bitcoin obseletes all other forms of money"
 excerpt: ''
 permalink: false
 image: bitcoin-symbol-2

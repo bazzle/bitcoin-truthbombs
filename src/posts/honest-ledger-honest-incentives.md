@@ -1,5 +1,6 @@
 ---
 date: 2023-11-11
+title: "Honest Ledger, honest incentives"
 excerpt: 'Dishonest ledger, dishonest incentives'
 permalink: false
 image: bitcoin-symbol-2

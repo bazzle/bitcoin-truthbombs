@@ -1,5 +1,6 @@
 ---
 date: 2024-01-20
+title: "The state"
 excerpt: 'boil down the book.'
 permalink: false
 image: bitcoin-symbol-2

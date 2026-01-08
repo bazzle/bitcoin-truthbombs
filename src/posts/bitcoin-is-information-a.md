@@ -1,5 +1,6 @@
 ---
 date: 2023-02-02
+title: "Bitcoin is information"
 excerpt: 'Bitcoin has no physical body.'
 permalink: false
 image: bitcoin-symbol-2

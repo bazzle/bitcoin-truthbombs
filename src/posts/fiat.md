@@ -1,5 +1,6 @@
 ---
 date: 2024-01-22
+title: "Fiat"
 excerpt: 'Introduce what fiat it is, how it&#8217;s broken. Negative incentives it breeds. Easy money also propagates a debt based economy. A bank can create a loan and deposit that money in your account in seconds. The real-world representation of that money only materialises when you create value through the work you must do to pay [&hellip;]'
 permalink: false
 image: bitcoin-symbol-2

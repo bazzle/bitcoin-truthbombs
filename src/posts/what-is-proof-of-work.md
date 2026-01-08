@@ -1,5 +1,6 @@
 ---
 date: 2024-01-14
+title: "What is proof of work"
 excerpt: 'To explain this, it&#8217;s useful to think of what backs the issuance of tokens. With bitcoin, proof of work presents a direct tie to forms of real world scarcity, through the usage of electricity to mine new coins. This, along with the block reward and difficulty adjustment – is what gives bitcoin its scarcity. And [&hellip;]'
 permalink: false
 image: bitcoin-symbol-2

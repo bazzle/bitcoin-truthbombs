@@ -1,5 +1,6 @@
 ---
 date: 2024-01-15
+title: "The hare and the tortoise of crypto 2"
 excerpt: 'Crypto, with its catchy names, funky logos and irresistible tech talking points like transaction speeds, web3, smart contracts, dapps and dao&#8217;s, aswell as the attraction of staking yields and single day double-digit price movements create the environment where the high time preference crypto moonboy – – likes to inhabit. They might be able to capitalise [&hellip;]'
 permalink: false
 image: bitcoin-symbol-2

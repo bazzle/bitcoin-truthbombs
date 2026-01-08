@@ -1,5 +1,6 @@
 ---
 date: 2024-02-02
+title: "Bitcoin is Land"
 excerpt: 'The way we typically transfer physical cash has little resemblance to the way we transfer bitcoins. Physical cash is a bearer token. Bitcoin is not.'
 permalink: false
 image: bitcoin-symbol-2

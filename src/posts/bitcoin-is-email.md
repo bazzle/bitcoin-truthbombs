@@ -1,5 +1,6 @@
 ---
 date: 2024-02-20
+title: "Bitcoin is email"
 modified: 2024-04-13
 block_height: 831257
 excerpt: 'Before email, people would write eachother letters.'

@@ -1,5 +1,6 @@
 ---
 date: 2024-08-09
+title: "Money as expression"
 excerpt: 'When we consider how we express ourselves and how we as individuals and collectives show ourselves up to the world, we might think about art, theatrical performance, culture, the religion we ascribe to or the political virtues we align ourselves with.'
 permalink: false
 image: bitcoin-symbol-2

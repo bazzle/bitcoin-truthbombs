@@ -1,5 +1,6 @@
 ---
 date: 2024-01-25
+title: "Bitcoin is a Protocol"
 modified: 2024-04-13
 block_height: 827307
 excerpt: "If I asked someone on the street what HTTP exactly does, I'd be impressed if they knew."

@@ -1,5 +1,6 @@
 ---
 date: 2024-01-19
+title: "Money is a battery"
 excerpt: 'Perhaps a better way to think about money as energy is to consider an everyday analogy that we understand all too well: the battery in our cell phone or tablet computer. I’m sure most of us prefer a cell phone with a long battery life for the same reason I prefer a monetary unit that [&hellip;]'
 permalink: false
 image: bitcoin-symbol-2

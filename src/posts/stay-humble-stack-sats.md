@@ -1,5 +1,6 @@
 ---
 date: 2022-11-16
+title: "Stay humble, stack sats"
 modified: 2024-04-13
 block_height: 763421
 excerpt: "Stay humble, stack sats describes the behaviour of low time preference bitcoiners who aren't blinded by the short term desire to capitalise, and consistently dollar cost average"
