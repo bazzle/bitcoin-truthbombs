@@ -1,6 +1,8 @@
 ---
 date: 2024-01-14
 title: "The hare and the tortoise of crypto"
+tags:
+  - posts
 modified: 2024-04-13
 block_height: 825764
 excerpt: 'The well known tale tells us about opposing mindsets. The hare who is narcissistic, showy and arrogant and the tortoise who is consistent, steadfast and humble.'

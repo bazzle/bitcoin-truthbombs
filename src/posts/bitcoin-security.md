@@ -1,6 +1,8 @@
 ---
 date: 2021-08-27
 title: "Bitcoin security"
+tags:
+  - posts
 modified: 2022-11-07
 excerpt: 'Joe &#8220;Pomp&#8221; Pompliano had an excellent way of explaining Bitcoin security in his podcast. When asked about whether crypto noobs/fudders know the difference between an exchange being hacked and bitcoin being hacked. By drawing parallells with the legacy banking system. The most secure parts of the system have never been hacked, same goes with Bitcoin [&hellip;]'
 permalink: false

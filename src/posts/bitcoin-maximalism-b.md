@@ -1,6 +1,8 @@
 ---
 date: 2024-03-24
 title: "Bitcoin maximalism"
+tags:
+  - posts
 excerpt: 'Let&#8217;s talk about the former first. Nearly every new bitcoiner is a fiat maximalist and that&#8217;s ok. The sad fact is, the fiat monopoly in just about every nation on the planet has resulted in fiat maximalism being the default state for the billions of working people around the world. To this end we are [&hellip;]'
 permalink: false
 image: bitcoin-symbol-2

@@ -1,6 +1,8 @@
 ---
 date: 2022-11-29
 title: "Bitcoin will make housing affordable"
+tags:
+  - posts
 modified: 2024-04-13
 block_height: 765165
 excerpt: 'Real estate being such a financialised asset is making housing unaffordable for people who need somewhere to live. Bitcoin can be the investment alternative.'

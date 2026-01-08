@@ -1,6 +1,8 @@
 ---
 date: 2024-01-13
 title: "Altcoins require you to trust"
+tags:
+  - posts
 excerpt: 'Despite what they claim, most altcoins requires you to trust. You need to trust the publicly known founder(s) to not become censored or coerced by controlling entities such as governments. You need to trust them to be moral and not enrich themselves through co-ordinated pumping and dumping. You need to trust them not to change [&hellip;]'
 permalink: false
 image: bitcoin-symbol-2

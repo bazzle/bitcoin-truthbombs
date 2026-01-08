@@ -1,6 +1,8 @@
 ---
 date: 2023-03-17
 title: "Fiat maximalism"
+tags:
+  - posts
 modified: 2024-04-14
 block_height: 781191
 excerpt: 'Fiat maximalism describes mind-control of the masses towards loyalty of government issued money. And scepticism towards alternatives.'

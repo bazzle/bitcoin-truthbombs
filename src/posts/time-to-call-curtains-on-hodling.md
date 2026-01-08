@@ -1,6 +1,8 @@
 ---
 date: 2023-09-25
 title: "Time to call curtains on HODL&#8217;ing?"
+tags:
+  - posts
 modified: 2024-04-13
 block_height: 809275
 excerpt: "When you HODL, you move your stack to cold-storage and you don't think about selling. Might this strategy be damaging to bitcoin adoption?"

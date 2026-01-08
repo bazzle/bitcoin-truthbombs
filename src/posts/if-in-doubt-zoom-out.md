@@ -1,6 +1,8 @@
 ---
 date: 2022-11-17
 title: "If in doubt, zoom out"
+tags:
+  - posts
 modified: 2022-12-04
 excerpt: ''
 permalink: false

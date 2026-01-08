@@ -1,6 +1,8 @@
 ---
 date: 2024-08-08
 title: "Social media is trash"
+tags:
+  - posts
 excerpt: 'How do we express ourselves to the world, and how does the world learn about us?'
 permalink: false
 image: bitcoin-symbol-2

@@ -1,6 +1,8 @@
 ---
 date: 2024-03-29
 title: "Fiat maximalism 2"
+tags:
+  - posts
 excerpt: 'Fiat maximalism describes people who think bitcoin and crypto as nothing more than investments, and that money can be nothing else but fiat. When it comes to money, the mental model the masses of us have adopted — consciously or not, is that of fiat. This word is latin for&nbsp;Let it be done. In other [&hellip;]'
 permalink: false
 image: bitcoin-symbol-2

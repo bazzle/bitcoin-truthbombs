@@ -1,6 +1,8 @@
 ---
 date: 2023-01-01
 title: "Rules without rulers"
+tags:
+  - posts
 modified: 2024-04-13
 block_height: 769866
 excerpt: 'Straight from the anarchists playbook, Rules without Rulers is perfect to describe bitcoin. '

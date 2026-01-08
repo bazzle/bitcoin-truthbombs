@@ -1,6 +1,8 @@
 ---
 date: 2022-12-14
 title: "Who is Satoshi Nakamoto"
+tags:
+  - posts
 modified: 2024-04-13
 block_height: 767378
 excerpt: 'The irresistable question is still not answered and probably never will be.'

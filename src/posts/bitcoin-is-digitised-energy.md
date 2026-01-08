@@ -1,6 +1,8 @@
 ---
 date: 2022-11-29
 title: "Bitcoin is digitised energy"
+tags:
+  - posts
 modified: 2022-12-28
 excerpt: 'Bitcoin, with its proof of work concensus mechanism ensures that every coin, at its creation has been minted through a certain amount of physical work/energy expended. This anchors bitcoin to the physical world, ensuring immutable transferrence of value from physical work into money, and prevents some people getting money for nothing. Like the cantillionnaires close [&hellip;]'
 permalink: false

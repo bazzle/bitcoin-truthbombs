@@ -1,6 +1,8 @@
 ---
 date: 2021-08-26
 title: "How does the bitcoin network operate?"
+tags:
+  - posts
 modified: 2022-11-07
 excerpt: 'Computers, otherwise known as miners, add transactions to the blockchain by solving mathematical problems which take up computing power. Such computer problems are extremely complex to solve, but very easy for the other computers on the network to verify the answer as being correct. When a computer, or miner has found the answer and it’s [&hellip;]'
 permalink: false

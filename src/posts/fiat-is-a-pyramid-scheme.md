@@ -1,6 +1,8 @@
 ---
 date: 2023-02-05
 title: "Fiat is a pyramid scheme"
+tags:
+  - posts
 excerpt: 'Link to YT'
 permalink: false
 image: bitcoin-symbol-2

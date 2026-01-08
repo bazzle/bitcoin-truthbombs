@@ -1,6 +1,8 @@
 ---
 date: 2022-11-10
 title: "Only when the tide goes out you discover who&#8217;s been swimming naked"
+tags:
+  - posts
 modified: 2024-04-13
 block_height: 762572
 excerpt: 'This Buffett quote gains a whole lot more meaning and relevance in the crypto space'
