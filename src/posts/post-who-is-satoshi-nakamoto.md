@@ -1,6 +1,7 @@
 ---
 date: 2022-12-14
 modified: 2024-04-13
+block_height: 767378
 excerpt: 'The irresistable question is still not answered and probably never will be.'
 permalink: /who-is-satoshi-nakamoto/
 category:

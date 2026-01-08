@@ -1,6 +1,7 @@
 ---
 date: 2023-01-16
 modified: 2024-04-13
+block_height: 772224
 excerpt: 'Immaculate conception of bitcoin describes the way the technology was created, and how the environment it was created in can never return'
 permalink: /immaculate-conception/
 category:

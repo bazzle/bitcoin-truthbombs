@@ -1,6 +1,7 @@
 ---
 date: 2024-01-22
 modified: 2024-04-13
+block_height: 826829
 excerpt: 'Hardness of money is a fundamental property a money should be judged by. What does this actually mean, and how "hard" is bitcoin?'
 permalink: /easy-and-hard-money/
 category:

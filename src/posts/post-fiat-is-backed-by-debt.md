@@ -1,6 +1,7 @@
 ---
 date: 2022-11-25
 modified: 2024-04-13
+block_height: 764662
 excerpt: 'The madness of fiat currency leads to nothing else but broken incentives that impoverish the masses'
 permalink: /fiat-is-backed-by-debt/
 category:

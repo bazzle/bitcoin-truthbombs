@@ -1,6 +1,7 @@
 ---
 date: 2022-11-09
 modified: 2024-04-13
+block_height: 762412
 excerpt: 'A bitcoiner with a low time preference mentality will wait patiently for the irrational height of the bull market to sell some sats'
 permalink: /time-preference/
 category:

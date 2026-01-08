@@ -1,6 +1,7 @@
 ---
 date: 2024-01-25
 modified: 2024-04-13
+block_height: 827307
 excerpt: "If I asked someone on the street what HTTP exactly does, I'd be impressed if they knew."
 permalink: /bitcoin-is-a-protocol/
 category:

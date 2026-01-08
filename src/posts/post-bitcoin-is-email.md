@@ -1,10 +1,11 @@
 ---
 date: 2024-02-20
 modified: 2024-04-13
+block_height: 831257
 excerpt: 'Before email, people would write eachother letters.'
 permalink: /bitcoin-is-email/
 category:
-    - Uncategorized
+  - Uncategorized
 ---
 
 # Bitcoin is email
