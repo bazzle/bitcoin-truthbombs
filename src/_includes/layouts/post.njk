@@ -1,0 +1,19 @@
+---
+layout: layouts/base.njk
+---
+
+<article class="post">
+  <header class="post-header">
+    <h1>{{ title }}</h1>
+
+    {% if date %}
+      <time datetime="{{ date | date: '%Y-%m-%d' }}">
+        {{ date | date: '%d %B %Y' }}
+      </time>
+    {% endif %}
+  </header>
+
+  <div class="post-content">
+    {{ content | safe }}
+  </div>
+</article>

@@ -16,9 +16,10 @@
 		{% endif %}
 	</head>
 	<body>
-		{% include "header.njk" %}
+		{% include "partials/header.njk" %}
 		<main>
+			{{ content | safe }}
 		</main>
-		{% include "footer.njk" %}
+		{% include "partials/footer.njk" %}
 	</body>
 </html>
