@@ -1,11 +1,7 @@
 ---
-date: '2023-04-10 12:39:16'
-modified: '2023-04-10 12:39:16'
-slug: abstract-value
-id: 812
-type: post
+date: 2023-04-10
 excerpt: 'The well known tale of the Hare and the Tortoise tells us about opposing mindsets. The tortoise who is consistent, steadfast and humble and the hare who is narcisistic, showy and arrogant. The dichotomy between these two is very pertinent when you think of the difference between bitcoin and shitcoins, in terms of what they [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=812'
+permalink: /?p=812/
 category:
     - Uncategorized
 ---

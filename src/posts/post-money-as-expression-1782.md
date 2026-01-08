@@ -1,11 +1,7 @@
 ---
-date: '2024-08-09 01:40:15'
-modified: '2024-08-09 01:40:15'
-slug: money-as-expression
-id: 1782
-type: post
+date: 2024-08-09
 excerpt: 'When we consider how we express ourselves and how we as individuals and collectives show ourselves up to the world, we might think about art, theatrical performance, culture, the religion we ascribe to or the political virtues we align ourselves with.'
-permalink: 'https://bitcoin-truthbombs.com/?p=1782'
+permalink: /?p=1782/
 category:
     - Uncategorized
 ---

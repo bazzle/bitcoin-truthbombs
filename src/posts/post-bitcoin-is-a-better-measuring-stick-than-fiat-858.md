@@ -1,11 +1,7 @@
 ---
-date: '2023-08-28 16:52:38'
-modified: '2023-08-28 16:52:38'
-slug: bitcoin-is-a-better-measuring-stick-than-fiat
-id: 858
-type: post
+date: 2023-08-28
 excerpt: 'Money needs to be elastic? Needs to expand ?? From Robert Breedlove Bullshit, as a unit of measurement needs reliable fixity. Thinking fiat monetary expansion is good, is like changing the definition of what a metre is, and thinking by using that new metre, you’ll end up with a bigger house. We need to all [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=858'
+permalink: /?p=858/
 category:
     - Uncategorized
 ---

@@ -1,11 +1,8 @@
 ---
-date: '2024-01-22 22:23:30'
-modified: '2024-04-13 09:40:43'
-slug: easy-and-hard-money
-id: 23
-type: post
+date: 2024-01-22
+modified: 2024-04-13
 excerpt: 'Hardness of money is a fundamental property a money should be judged by. What does this actually mean, and how "hard" is bitcoin?'
-permalink: 'https://bitcoin-truthbombs.com/easy-and-hard-money/'
+permalink: /easy-and-hard-money/
 category:
     - Uncategorized
 ---

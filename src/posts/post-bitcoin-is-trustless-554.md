@@ -1,11 +1,8 @@
 ---
-date: '2023-02-05 20:30:17'
-modified: '2024-04-13 09:44:26'
-slug: bitcoin-is-trustless
-id: 554
-type: post
+date: 2023-02-05
+modified: 2024-04-13
 excerpt: 'One of the fundamental properties of bitcoin, but what does this actually mean? and why does it matter.'
-permalink: 'https://bitcoin-truthbombs.com/bitcoin-is-trustless/'
+permalink: /bitcoin-is-trustless/
 category:
     - Uncategorized
 ---

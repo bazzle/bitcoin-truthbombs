@@ -1,11 +1,8 @@
 ---
-date: '2023-09-25 16:04:49'
-modified: '2024-04-13 09:40:33'
-slug: time-to-call-curtains-on-hodling
-id: 948
-type: post
+date: 2023-09-25
+modified: 2024-04-13
 excerpt: "When you HODL, you move your stack to cold-storage and you don't think about selling. Might this strategy be damaging to bitcoin adoption?"
-permalink: 'https://bitcoin-truthbombs.com/time-to-call-curtains-on-hodling/'
+permalink: /time-to-call-curtains-on-hodling/
 category:
     - Uncategorized
 ---

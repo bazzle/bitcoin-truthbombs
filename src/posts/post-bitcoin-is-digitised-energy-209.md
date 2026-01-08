@@ -1,11 +1,8 @@
 ---
-date: '2022-11-29 15:59:22'
-modified: '2022-12-28 16:38:38'
-slug: bitcoin-is-digitised-energy
-id: 209
-type: post
+date: 2022-11-29
+modified: 2022-12-28
 excerpt: 'Bitcoin, with its proof of work concensus mechanism ensures that every coin, at its creation has been minted through a certain amount of physical work/energy expended. This anchors bitcoin to the physical world, ensuring immutable transferrence of value from physical work into money, and prevents some people getting money for nothing. Like the cantillionnaires close [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=209'
+permalink: /?p=209/
 category:
     - Uncategorized
 ---

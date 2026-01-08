@@ -1,11 +1,8 @@
 ---
-date: '2021-08-30 13:09:01'
-modified: '2023-03-23 23:28:50'
-slug: are-we-borrowing-from-our-future
-id: 56
-type: post
+date: 2021-08-30
+modified: 2023-03-23
 excerpt: 'The perhaps unexpected answer is, our children. Through the hidden tax that is inflation. Just like is happening now, our children will have to work harder and harder to maintain their quality of life. As the money they are being paid in loses value in real terms, at an ever increasing rate. Future generations will [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=56'
+permalink: /?p=56/
 category:
     - Uncategorized
 ---

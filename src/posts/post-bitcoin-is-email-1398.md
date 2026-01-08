@@ -1,11 +1,8 @@
 ---
-date: '2024-02-20 11:30:30'
-modified: '2024-04-13 09:32:21'
-slug: bitcoin-is-email
-id: 1398
-type: post
+date: 2024-02-20
+modified: 2024-04-13
 excerpt: 'Before email, people would write eachother letters.'
-permalink: 'https://bitcoin-truthbombs.com/bitcoin-is-email/'
+permalink: /bitcoin-is-email/
 category:
     - Uncategorized
 ---

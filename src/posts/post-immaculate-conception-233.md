@@ -1,11 +1,8 @@
 ---
-date: '2023-01-16 23:55:00'
-modified: '2024-04-13 09:44:11'
-slug: immaculate-conception
-id: 233
-type: post
+date: 2023-01-16
+modified: 2024-04-13
 excerpt: 'Immaculate conception of bitcoin describes the way the technology was created, and how the environment it was created in can never return'
-permalink: 'https://bitcoin-truthbombs.com/immaculate-conception/'
+permalink: /immaculate-conception/
 category:
     - Uncategorized
 ---

@@ -1,11 +1,7 @@
 ---
-date: '2024-03-24 19:37:08'
-modified: '2024-03-24 19:37:08'
-slug: the-journey-from-fiat-max-to-bitcoin-maxi
-id: 901
-type: post
+date: 2024-03-24
 excerpt: '1971 was the Going from fiat to bitcoin maxi, two mindsets which are radically antithetical to eachother, is a profound journey of discovery every maxi goes on. Almost like a rite of passage for bitcoiners. Flipping on its head all of the preconceived beliefs about what money is and what it should be. The rabbit [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=901'
+permalink: /?p=901/
 category:
     - Uncategorized
 ---

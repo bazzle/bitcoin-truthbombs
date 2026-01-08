@@ -1,11 +1,8 @@
 ---
-date: '2022-11-10 13:21:02'
-modified: '2024-04-13 09:42:31'
-slug: only-when-the-tide-goes-out-do-you-discover-whos-been-swimming-naked
-id: 100
-type: post
+date: 2022-11-10
+modified: 2024-04-13
 excerpt: 'This Buffett quote gains a whole lot more meaning and relevance in the crypto space'
-permalink: 'https://bitcoin-truthbombs.com/only-when-the-tide-goes-out-do-you-discover-whos-been-swimming-naked/'
+permalink: /only-when-the-tide-goes-out-do-you-discover-whos-been-swimming-naked/
 category:
     - Uncategorized
 ---

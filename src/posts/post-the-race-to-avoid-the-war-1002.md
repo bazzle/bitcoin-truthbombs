@@ -1,11 +1,7 @@
 ---
-date: '2023-10-16 23:41:52'
-modified: '2023-10-16 23:41:52'
-slug: the-race-to-avoid-the-war
-id: 1002
-type: post
+date: 2023-10-16
 excerpt: ''
-permalink: 'https://bitcoin-truthbombs.com/?p=1002'
+permalink: /?p=1002/
 category:
     - Uncategorized
 ---

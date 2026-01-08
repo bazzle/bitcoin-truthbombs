@@ -1,11 +1,7 @@
 ---
-date: '2023-09-25 20:28:14'
-modified: '2023-09-25 20:28:14'
-slug: time-to-call-curtains-on-hodling-part-2
-id: 918
-type: post
+date: 2023-09-25
 excerpt: 'In part 1, I spoke about the effects of HODL&#8217;ing bitcoin to achieve wealth for the self and future generations, promote low time preference thinking and presented a counter argument that HODL&#8217;ing might not always be the right approach for the best outcomes. Now I zoom out and think about the effects of HODL&#8217;ing through [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=918'
+permalink: /?p=918/
 category:
     - Uncategorized
 ---

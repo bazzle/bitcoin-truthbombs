@@ -1,11 +1,7 @@
 ---
-date: '2023-04-07 22:03:03'
-modified: '2023-04-07 22:03:03'
-slug: why-bitcoin-hodlers-prefer-the-bear-market
-id: 750
-type: post
+date: 2023-04-07
 excerpt: 'The tortoise ignores the noise and rabble of the bull market. Preferring the bear market, after the crypto hype train has derailed violently, and the parasitic founders and venture capitalists and high time-preference retail investors have gone running for the hills. For this is a time when money flows towards innovators who add real world [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=750'
+permalink: /?p=750/
 category:
     - Uncategorized
 ---

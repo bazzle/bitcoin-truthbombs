@@ -1,11 +1,7 @@
 ---
-date: '2024-02-02 23:03:12'
-modified: '2024-02-02 23:03:12'
-slug: bitcoin-is-land
-id: 1386
-type: post
+date: 2024-02-02
 excerpt: 'The way we typically transfer physical cash has little resemblance to the way we transfer bitcoins. Physical cash is a bearer token. Bitcoin is not.'
-permalink: 'https://bitcoin-truthbombs.com/?p=1386'
+permalink: /?p=1386/
 category:
     - Uncategorized
 ---

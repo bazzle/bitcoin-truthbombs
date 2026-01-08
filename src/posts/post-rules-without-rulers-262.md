@@ -1,11 +1,8 @@
 ---
-date: '2023-01-01 23:06:04'
-modified: '2024-04-13 09:44:02'
-slug: rules-without-rulers
-id: 262
-type: post
+date: 2023-01-01
+modified: 2024-04-13
 excerpt: 'Straight from the anarchists playbook, Rules without Rulers is perfect to describe bitcoin. '
-permalink: 'https://bitcoin-truthbombs.com/rules-without-rulers/'
+permalink: /rules-without-rulers/
 category:
     - Uncategorized
 ---

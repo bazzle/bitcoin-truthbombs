@@ -1,11 +1,8 @@
 ---
-date: '2022-12-14 18:48:04'
-modified: '2024-04-13 09:43:48'
-slug: who-is-satoshi-nakamoto
-id: 304
-type: post
+date: 2022-12-14
+modified: 2024-04-13
 excerpt: 'The irresistable question is still not answered and probably never will be.'
-permalink: 'https://bitcoin-truthbombs.com/who-is-satoshi-nakamoto/'
+permalink: /who-is-satoshi-nakamoto/
 category:
     - Uncategorized
 ---

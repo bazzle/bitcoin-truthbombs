@@ -1,11 +1,7 @@
 ---
-date: '2024-08-08 23:36:06'
-modified: '2024-08-08 23:36:06'
-slug: social-media-is-trash
-id: 1744
-type: post
+date: 2024-08-08
 excerpt: 'How do we express ourselves to the world, and how does the world learn about us?'
-permalink: 'https://bitcoin-truthbombs.com/?p=1744'
+permalink: /?p=1744/
 category:
     - Uncategorized
 ---

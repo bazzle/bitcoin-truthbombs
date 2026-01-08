@@ -1,11 +1,8 @@
 ---
-date: '2022-11-29 16:24:30'
-modified: '2024-04-13 09:43:40'
-slug: bitcoin-will-make-housing-affordable
-id: 211
-type: post
+date: 2022-11-29
+modified: 2024-04-13
 excerpt: 'Real estate being such a financialised asset is making housing unaffordable for people who need somewhere to live. Bitcoin can be the investment alternative.'
-permalink: 'https://bitcoin-truthbombs.com/bitcoin-will-make-housing-affordable/'
+permalink: /bitcoin-will-make-housing-affordable/
 category:
     - Uncategorized
 ---

@@ -1,11 +1,7 @@
 ---
-date: '2023-01-24 15:05:48'
-modified: '2023-01-24 15:05:48'
-slug: criminals-prefer-fiat-to-bitcoin
-id: 494
-type: post
+date: 2023-01-24
 excerpt: ''
-permalink: 'https://bitcoin-truthbombs.com/?p=494'
+permalink: /?p=494/
 category:
     - Uncategorized
 ---

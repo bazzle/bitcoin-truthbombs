@@ -1,11 +1,7 @@
 ---
-date: '2023-11-03 20:43:21'
-modified: '2023-11-03 20:43:21'
-slug: bigger-numbers-bring-bigger-numbers
-id: 1019
-type: post
+date: 2023-11-03
 excerpt: 'Bitcoin game theory, institutions don&#8217;t get in on bitcoin until market cap is big enough. Gradually, then suddenly.'
-permalink: 'https://bitcoin-truthbombs.com/?p=1019'
+permalink: /?p=1019/
 category:
     - Uncategorized
 ---

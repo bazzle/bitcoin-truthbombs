@@ -1,11 +1,8 @@
 ---
-date: '2024-02-29 01:22:27'
-modified: '2024-04-13 09:32:04'
-slug: bitcoin-is-financial-gunpowder
-id: 1482
-type: post
+date: 2024-02-29
+modified: 2024-04-13
 excerpt: 'This truthbomb from Saifedean Ammous, describes how bitcoin adoption is comparable to that of tools like fire, electricity and gunpowder.'
-permalink: 'https://bitcoin-truthbombs.com/bitcoin-is-financial-gunpowder/'
+permalink: /bitcoin-is-financial-gunpowder/
 category:
     - Uncategorized
 ---

@@ -1,11 +1,8 @@
 ---
-date: '2021-08-26 21:31:59'
-modified: '2022-12-09 20:04:40'
-slug: what-is-blockchain
-id: 29
-type: post
+date: 2021-08-26
+modified: 2022-12-09
 excerpt: 'Blockchain is a distributed ledger which records specific information such as transactions made with a cryptocurrency. Blockchain refers to a chain of blocks, each block stores a number of transactions. In Bitcoin’s case, however many transactions which are made in a ten minute period. As opposed to a centralised database blockchains such as the Bitcoin [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=29'
+permalink: /?p=29/
 category:
     - Uncategorized
 ---

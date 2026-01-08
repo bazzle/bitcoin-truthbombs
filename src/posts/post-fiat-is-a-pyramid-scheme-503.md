@@ -1,11 +1,7 @@
 ---
-date: '2023-02-05 15:19:11'
-modified: '2023-02-05 15:19:11'
-slug: fiat-is-a-pyramid-scheme
-id: 503
-type: post
+date: 2023-02-05
 excerpt: 'Link to YT'
-permalink: 'https://bitcoin-truthbombs.com/?p=503'
+permalink: /?p=503/
 category:
     - Uncategorized
 ---

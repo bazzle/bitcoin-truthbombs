@@ -1,11 +1,8 @@
 ---
-date: '2024-01-14 20:49:12'
-modified: '2024-04-13 09:40:39'
-slug: the-hare-and-the-tortoise-of-crypto
-id: 773
-type: post
+date: 2024-01-14
+modified: 2024-04-13
 excerpt: 'The well known tale tells us about opposing mindsets. The hare who is narcissistic, showy and arrogant and the tortoise who is consistent, steadfast and humble.'
-permalink: 'https://bitcoin-truthbombs.com/the-hare-and-the-tortoise-of-crypto/'
+permalink: /the-hare-and-the-tortoise-of-crypto/
 category:
     - Uncategorized
 ---

@@ -1,11 +1,7 @@
 ---
-date: '2024-01-23 00:02:40'
-modified: '2024-01-23 00:02:40'
-slug: dont-trade-your-time-for-something-that-can-be-created-for-free
-id: 431
-type: post
+date: 2024-01-23
 excerpt: 'Scarcity is an attribute that anything can have, and generally speaking if that thing is scarce it is valued and sought after more. This can be said about a collectible, a person who is one of a kind, a unique experience, or being in love — because finding someone you love doesn&#8217;t happen regularly, it [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=431'
+permalink: /?p=431/
 category:
     - Uncategorized
 ---

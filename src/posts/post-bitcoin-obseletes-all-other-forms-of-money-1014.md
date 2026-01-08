@@ -1,11 +1,7 @@
 ---
-date: '2023-10-23 20:48:26'
-modified: '2023-10-23 20:48:26'
-slug: bitcoin-obseletes-all-other-forms-of-money
-id: 1014
-type: post
+date: 2023-10-23
 excerpt: ''
-permalink: 'https://bitcoin-truthbombs.com/?p=1014'
+permalink: /?p=1014/
 category:
     - Uncategorized
 ---

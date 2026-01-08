@@ -1,11 +1,7 @@
 ---
-date: '2022-12-09 12:34:36'
-modified: '2022-12-09 12:34:36'
-slug: why-bitcoin-is-slow-and-thats-a-feature-not-a-bug
-id: 258
-type: post
+date: 2022-12-09
 excerpt: ''
-permalink: 'https://bitcoin-truthbombs.com/?p=258'
+permalink: /?p=258/
 category:
     - Uncategorized
 ---

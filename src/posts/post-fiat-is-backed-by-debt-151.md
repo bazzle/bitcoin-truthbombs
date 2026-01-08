@@ -1,11 +1,8 @@
 ---
-date: '2022-11-25 20:19:14'
-modified: '2024-04-13 09:43:05'
-slug: fiat-is-backed-by-debt
-id: 151
-type: post
+date: 2022-11-25
+modified: 2024-04-13
 excerpt: 'The madness of fiat currency leads to nothing else but broken incentives that impoverish the masses'
-permalink: 'https://bitcoin-truthbombs.com/fiat-is-backed-by-debt/'
+permalink: /fiat-is-backed-by-debt/
 category:
     - Uncategorized
 ---

@@ -1,11 +1,8 @@
 ---
-date: '2022-11-26 23:18:30'
-modified: '2024-01-19 20:12:45'
-slug: flies-are-only-attracted-to-the-broken-eggs
-id: 174
-type: post
+date: 2022-11-26
+modified: 2024-01-19
 excerpt: 'When FTX collapsed it was the second biggest crypto exchange. An exchange that went online as late as 2019, ten years after the first block was mined on the bitcoin network. How was this even possible? The answer is the perfect storm of an extremely inteligent and canny but sociopathic founder finding his feet in [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=174'
+permalink: /?p=174/
 category:
     - Uncategorized
 ---

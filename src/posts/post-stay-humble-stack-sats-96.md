@@ -1,11 +1,8 @@
 ---
-date: '2022-11-16 00:42:37'
-modified: '2024-04-13 09:42:51'
-slug: stay-humble-stack-sats
-id: 96
-type: post
+date: 2022-11-16
+modified: 2024-04-13
 excerpt: "Stay humble, stack sats describes the behaviour of low time preference bitcoiners who aren't blinded by the short term desire to capitalise, and consistently dollar cost average"
-permalink: 'https://bitcoin-truthbombs.com/stay-humble-stack-sats/'
+permalink: /stay-humble-stack-sats/
 category:
     - Uncategorized
 ---

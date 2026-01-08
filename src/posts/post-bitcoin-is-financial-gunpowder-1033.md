@@ -1,11 +1,7 @@
 ---
-date: '2024-01-08 17:10:34'
-modified: '2024-01-08 17:10:34'
-slug: bitcoin-is-financial-gunpowder
-id: 1033
-type: post
+date: 2024-01-08
 excerpt: ''
-permalink: 'https://bitcoin-truthbombs.com/?p=1033'
+permalink: /?p=1033/
 category:
     - Uncategorized
 ---

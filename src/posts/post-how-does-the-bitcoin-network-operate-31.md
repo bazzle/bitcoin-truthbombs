@@ -1,11 +1,8 @@
 ---
-date: '2021-08-26 21:32:19'
-modified: '2022-11-07 14:17:39'
-slug: how-does-the-bitcoin-network-operate
-id: 31
-type: post
+date: 2021-08-26
+modified: 2022-11-07
 excerpt: 'Computers, otherwise known as miners, add transactions to the blockchain by solving mathematical problems which take up computing power. Such computer problems are extremely complex to solve, but very easy for the other computers on the network to verify the answer as being correct. When a computer, or miner has found the answer and it’s [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=31'
+permalink: /?p=31/
 category:
     - Uncategorized
 ---

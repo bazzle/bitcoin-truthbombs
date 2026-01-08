@@ -1,11 +1,8 @@
 ---
-date: '2022-11-27 23:19:19'
-modified: '2022-12-04 16:42:12'
-slug: rai-stones-and-the-first-decentralised-ledger
-id: 199
-type: post
+date: 2022-11-27
+modified: 2022-12-04
 excerpt: ''
-permalink: 'https://bitcoin-truthbombs.com/?p=199'
+permalink: /?p=199/
 category:
     - Uncategorized
 ---

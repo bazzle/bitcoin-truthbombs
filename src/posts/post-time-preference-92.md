@@ -1,11 +1,8 @@
 ---
-date: '2022-11-09 18:22:34'
-modified: '2024-04-13 09:42:22'
-slug: time-preference
-id: 92
-type: post
+date: 2022-11-09
+modified: 2024-04-13
 excerpt: 'A bitcoiner with a low time preference mentality will wait patiently for the irrational height of the bull market to sell some sats'
-permalink: 'https://bitcoin-truthbombs.com/time-preference/'
+permalink: /time-preference/
 category:
     - Uncategorized
 ---

@@ -1,11 +1,7 @@
 ---
-date: '2024-01-20 00:59:40'
-modified: '2024-01-20 00:59:40'
-slug: bitcoin-fixes-time-preference
-id: 1278
-type: post
+date: 2024-01-20
 excerpt: 'Knut Svanholm link to article Inflationary fiat encourages high time-preference. Because you&#8217;re incentivised to spend and consume before you get robbed. Svanholm: A high time preference is when you prioritize quick satisfaction, when you don’t delay gratification. So if you’re robbed of everything you own, you adopt a high time preference because you need to, [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=1278'
+permalink: /?p=1278/
 category:
     - Uncategorized
 ---

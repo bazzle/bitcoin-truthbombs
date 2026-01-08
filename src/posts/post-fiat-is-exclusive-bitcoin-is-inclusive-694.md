@@ -1,11 +1,7 @@
 ---
-date: '2023-03-22 18:17:21'
-modified: '2023-03-22 18:17:21'
-slug: fiat-is-exclusive-bitcoin-is-inclusive
-id: 694
-type: post
+date: 2023-03-22
 excerpt: ''
-permalink: 'https://bitcoin-truthbombs.com/?p=694'
+permalink: /?p=694/
 category:
     - Uncategorized
 ---

@@ -1,11 +1,8 @@
 ---
-date: '2024-01-25 22:50:33'
-modified: '2024-04-13 09:32:35'
-slug: bitcoin-is-a-protocol
-id: 1193
-type: post
+date: 2024-01-25
+modified: 2024-04-13
 excerpt: "If I asked someone on the street what HTTP exactly does, I'd be impressed if they knew."
-permalink: 'https://bitcoin-truthbombs.com/bitcoin-is-a-protocol/'
+permalink: /bitcoin-is-a-protocol/
 category:
     - Uncategorized
 ---

@@ -1,11 +1,7 @@
 ---
-date: '2024-01-19 01:43:45'
-modified: '2024-01-19 01:43:45'
-slug: money-is-a-battery
-id: 1275
-type: post
+date: 2024-01-19
 excerpt: 'Perhaps a better way to think about money as energy is to consider an everyday analogy that we understand all too well: the battery in our cell phone or tablet computer. I’m sure most of us prefer a cell phone with a long battery life for the same reason I prefer a monetary unit that [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=1275'
+permalink: /?p=1275/
 category:
     - Uncategorized
 ---

@@ -1,11 +1,7 @@
 ---
-date: '2024-03-28 22:42:08'
-modified: '2024-03-28 22:42:08'
-slug: bitcoin-is-nowhere
-id: 1392
-type: post
+date: 2024-03-28
 excerpt: 'Bitcoin is not a bearer asset. When you &#8220;receive&#8221; bitcoin, you don&#8217;t actually receive any bitcoin. Bitcoin has no physical nor digital form. Your bitcoin wallet doesn&#8217;t hold any bitcoin tokens, in fact a bitcoin wallet is better analogised as a signing device. Like a prefilled check, waiting for your signature. Bitcoin represents 100 million [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=1392'
+permalink: /?p=1392/
 category:
     - Uncategorized
 ---

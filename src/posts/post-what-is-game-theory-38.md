@@ -1,11 +1,8 @@
 ---
-date: '2021-08-27 22:29:00'
-modified: '2022-12-04 16:44:11'
-slug: what-is-game-theory
-id: 38
-type: post
+date: 2021-08-27
+modified: 2022-12-04
 excerpt: 'In the past decade, thanks to the ever-increasing popularity of Bitcoin, blockchain technology has attracted a significant degree of attention from both academia and industry. Generally speaking, blockchain is identified as the technology behind Bitcoin. However, the Bitcoin blockchain is much more than tech. All the three main technologies that are leveraged by Bitcoin (a [&hellip;]'
-permalink: 'https://bitcoin-truthbombs.com/?p=38'
+permalink: /?p=38/
 category:
     - Uncategorized
 ---
