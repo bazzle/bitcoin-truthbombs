@@ -2,11 +2,11 @@
 	<div class="o-row">
 		<div class="o-row-container--wide">
 			<div class="o-index o-index__container">
-			<?php while ( have_posts() ) : the_post(); ?>
+				{% for post in collections.posts | sort(attribute="date") | reverse %}
 				<div class="o-index__item">
-					<?php get_template_part('includes/component', 'card') ?>
+					{% include "partials/card.njk" %}
 				</div>
-			<?php endwhile; ?>
+				{% endfor %}
 			</div>
 		</div>
 	</div>
