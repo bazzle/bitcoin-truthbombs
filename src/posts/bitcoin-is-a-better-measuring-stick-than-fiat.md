@@ -2,6 +2,7 @@
 date: 2023-08-28
 excerpt: 'Money needs to be elastic? Needs to expand ?? From Robert Breedlove Bullshit, as a unit of measurement needs reliable fixity. Thinking fiat monetary expansion is good, is like changing the definition of what a metre is, and thinking by using that new metre, you’ll end up with a bigger house. We need to all [&hellip;]'
 permalink: false
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---

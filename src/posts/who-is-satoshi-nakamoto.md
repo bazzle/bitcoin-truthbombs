@@ -4,6 +4,7 @@ modified: 2024-04-13
 block_height: 767378
 excerpt: 'The irresistable question is still not answered and probably never will be.'
 permalink: /who-is-satoshi-nakamoto/
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---

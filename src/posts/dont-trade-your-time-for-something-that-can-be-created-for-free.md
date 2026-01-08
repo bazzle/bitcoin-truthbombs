@@ -2,6 +2,7 @@
 date: 2024-01-23
 excerpt: 'Scarcity is an attribute that anything can have, and generally speaking if that thing is scarce it is valued and sought after more. This can be said about a collectible, a person who is one of a kind, a unique experience, or being in love — because finding someone you love doesn&#8217;t happen regularly, it [&hellip;]'
 permalink: false
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---

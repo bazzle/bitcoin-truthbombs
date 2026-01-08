@@ -3,6 +3,7 @@ date: 2022-11-26
 modified: 2024-01-19
 excerpt: 'When FTX collapsed it was the second biggest crypto exchange. An exchange that went online as late as 2019, ten years after the first block was mined on the bitcoin network. How was this even possible? The answer is the perfect storm of an extremely inteligent and canny but sociopathic founder finding his feet in [&hellip;]'
 permalink: false
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---

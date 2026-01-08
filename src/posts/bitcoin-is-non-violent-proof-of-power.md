@@ -2,6 +2,7 @@
 date: 2023-02-27
 excerpt: 'Survivorship bias'
 permalink: false
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---

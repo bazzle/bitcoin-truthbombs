@@ -2,6 +2,7 @@
 date: 2024-08-08
 excerpt: 'How do we express ourselves to the world, and how does the world learn about us?'
 permalink: false
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---

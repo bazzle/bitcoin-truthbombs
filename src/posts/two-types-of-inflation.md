@@ -2,6 +2,7 @@
 date: 2023-03-22
 excerpt: 'Inflation, in terms of a free market phenomenon is a good thing. If the supply of something drops and demand stays the same, prices for that thing rise. This is a naturally occuring defence mechanism to address the balance between supply and demand. If a disease destroyed half the worlds&#8217; banana crop, bananas must increase [&hellip;]'
 permalink: false
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---

@@ -2,6 +2,7 @@
 date: 2024-03-24
 excerpt: '1971 was the Going from fiat to bitcoin maxi, two mindsets which are radically antithetical to eachother, is a profound journey of discovery every maxi goes on. Almost like a rite of passage for bitcoiners. Flipping on its head all of the preconceived beliefs about what money is and what it should be. The rabbit [&hellip;]'
 permalink: false
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---

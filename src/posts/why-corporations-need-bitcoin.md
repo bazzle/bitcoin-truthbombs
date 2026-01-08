@@ -2,6 +2,7 @@
 date: 2024-03-20
 excerpt: 'If a company holds its treasuries in fiat, they need to perpetually increase their income by a proportion greater than the inflation rate of the money they hold so they can survive long-term and continue to pay their suppliers, and if publicly listed — appease their shareholders with a consistent return. There can also be [&hellip;]'
 permalink: false
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---

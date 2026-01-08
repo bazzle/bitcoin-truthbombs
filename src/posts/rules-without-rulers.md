@@ -4,6 +4,7 @@ modified: 2024-04-13
 block_height: 769866
 excerpt: 'Straight from the anarchists playbook, Rules without Rulers is perfect to describe bitcoin. '
 permalink: /rules-without-rulers/
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---

@@ -2,6 +2,7 @@
 date: 2023-02-05
 excerpt: 'Link to YT'
 permalink: false
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---

@@ -4,6 +4,7 @@ modified: 2024-04-13
 block_height: 762572
 excerpt: 'This Buffett quote gains a whole lot more meaning and relevance in the crypto space'
 permalink: /only-when-the-tide-goes-out-do-you-discover-whos-been-swimming-naked/
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---

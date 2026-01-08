@@ -2,6 +2,7 @@
 date: 2023-07-28
 excerpt: ''
 permalink: false
+image: bitcoin-symbol-2
 category:
     - Uncategorized
 ---
