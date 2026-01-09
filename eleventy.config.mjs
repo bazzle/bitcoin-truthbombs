@@ -1,3 +1,5 @@
+import markdownIt from "markdown-it";
+
 export default function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy({
 		"src/assets/scripts": "assets/scripts",
@@ -10,12 +12,22 @@ export default function(eleventyConfig) {
 			return post.data.permalink !== false;
 		});
 	});
+	eleventyConfig.setLibrary(
+		"md", markdownIt({
+			html: true,
+			breaks: false,
+			linkify: true,
+		})
+	);
 	const pathPrefix = "/";
 	return {
 		pathPrefix: pathPrefix,
 		dir: {
 			input: "src",
 			output: "_site"
-		}
+		},
+		htmlTemplateEngine: "njk",
+		markdownTemplateEngine: "njk",
+		dataTemplateEngine: "njk",
 	};
 }
