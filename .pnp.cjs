@@ -32,6 +32,7 @@ const RAW_RUNTIME_STATE =
           ["bitcoin-truthbombs", "workspace:."],\
           ["concurrently", "npm:9.2.1"],\
           ["esbuild", "npm:0.27.2"],\
+          ["markdown-it", "npm:14.1.0"],\
           ["sass", "npm:1.97.2"]\
         ],\
         "linkType": "SOFT"\
@@ -828,6 +829,7 @@ const RAW_RUNTIME_STATE =
           ["bitcoin-truthbombs", "workspace:."],\
           ["concurrently", "npm:9.2.1"],\
           ["esbuild", "npm:0.27.2"],\
+          ["markdown-it", "npm:14.1.0"],\
           ["sass", "npm:1.97.2"]\
         ],\
         "linkType": "SOFT"\

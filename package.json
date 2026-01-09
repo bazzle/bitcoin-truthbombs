@@ -13,12 +13,11 @@
 		"watch:scss": "sass --watch src/assets/styles/main.scss:_site/assets/styles/main.css",
 		"dev": "concurrently \"yarn watch:scss\" \"eleventy --serve\""
 	},
-	"dependencies": {
+	"devDependencies": {
 		"@11ty/eleventy": "^3.1.2",
 		"concurrently": "^9.2.0",
+		"esbuild": "^0.27.2",
+		"markdown-it": "^14.1.0",
 		"sass": "^1.65.0"
-	},
-	"devDependencies": {
-		"esbuild": "^0.27.2"
 	}
 }

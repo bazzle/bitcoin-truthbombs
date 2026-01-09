@@ -699,6 +699,7 @@ __metadata:
     "@11ty/eleventy": "npm:^3.1.2"
     concurrently: "npm:^9.2.0"
     esbuild: "npm:^0.27.2"
+    markdown-it: "npm:^14.1.0"
     sass: "npm:^1.65.0"
   languageName: unknown
   linkType: soft
