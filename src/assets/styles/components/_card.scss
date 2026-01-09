@@ -1,3 +1,5 @@
+@use "../all-vars" as *;
+
 .c-card{
   border-bottom: 1px solid $color-accent;
   background-color: $color-bg-2;

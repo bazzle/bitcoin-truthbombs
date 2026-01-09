@@ -1,23 +1,4 @@
-$edgepadding: 3rem;
-$edgepadding-mobile: 1rem;
-$edgepadding-mobile-loose: 3rem;
-
-@mixin padding-loose{
-  padding-right: $edgepadding-mobile-loose;
-  padding-left: $edgepadding-mobile-loose;
-  @include break(site-width){
-    padding-right: $edgepadding;
-    padding-left: $edgepadding;
-  }
-}
-@mixin padding-tight{
-  padding-right: $edgepadding-mobile;
-  padding-left: $edgepadding-mobile;
-  @include break(site-width){
-    padding-right: $edgepadding;
-    padding-left: $edgepadding;
-  }
-}
+@use "../all-vars" as *;
 
 .o-row {
   width: 100%;

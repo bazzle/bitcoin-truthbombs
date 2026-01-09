@@ -1,3 +1,5 @@
+@use "../all-vars" as *;
+
 blockquote.wp-block-quote{
     @include gap(margin-top, 2);
     @include gap(margin-bottom, 2);

@@ -1,3 +1,5 @@
+@use "../all-vars" as *;
+
 $title-stroke-color: rgba(228, 170, 170, .8);
 .o-single{
   &__hero{

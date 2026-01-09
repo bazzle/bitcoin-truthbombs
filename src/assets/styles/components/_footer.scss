@@ -1,3 +1,5 @@
+@use "../all-vars" as *;
+
 .o-footer{
     @include gap(margin-bottom,4);
     &__text{
