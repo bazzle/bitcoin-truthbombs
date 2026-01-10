@@ -19,12 +19,8 @@
 			</a>
 		</h1>
 		<div class="c-card__metadata">
-			{% if post.date %}
-				<div class="c-card__metadata__item">
-					{% set dateObj = post.date %}
-					{% set dateLabel = ("0" ~ (dateObj.getMonth() + 1)).slice(-2) ~ "." ~ ("0" ~ dateObj.getDate()).slice(-2) ~ "." ~ dateObj.getFullYear().toString().slice(-2) %}
-					Date: {{ dateLabel }}
-				</div>
+			{% if data.date %}
+				{{ post.data.date | numericDate }}
 			{% endif %}
 			{% if data.block_height %}
 				<span class="c-card__metadata__divider">/</span>

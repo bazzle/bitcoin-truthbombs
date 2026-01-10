@@ -2,16 +2,59 @@
 layout: layouts/base.njk
 ---
 
-<article class="post">
-  <header class="post-header">
-    <h1>{{ title }}</h1>
+<div class="o-single">
+	<div class="o-row o-single__hero {{ 'o-single__hero--image' if image else 'o-single__hero--no-image' }}">
+		<div class="o-row-container--wide o-single__hero__container">
+			<h1 class="o-single__hero__title">
+				<span>{{ title }}</span>
+			</h1>
+			<div class="o-single__hero__image">
+				{% if image %}
+					<img src="/assets/img/featured/{{ image }}.jpg" alt="image">
+				{% endif %}
+			</div>
+		</div>
+	</div>
 
-	{# {% if date %}
-		Date: {{ post.date | date: "%m.%d.%y" }}
-	{% endif %} #}
-  </header>
+	<div class="o-row">
+		<div class="o-row-container">
+			<div class="o-single__metadata">
+			{% if date %}
+				<time class="o-single__metadata__item">{{ date | prettyDate }}</time>
+			{% endif %}
+				<span class="o-single__metadata__divider">/</span>
+				{% if block_height %}
+					<span class="o-single__metadata__item">{{ block_height }}</span>
+					<span class="o-single__metadata__divider">/</span>
+				{% endif %}
+				<span class="o-single__metadata__item">
+					<span class="o-single__metadata__item">
+						2 minute read
+					</span>
+				</span>
+			</div>
+		</div>
+	</div>
 
-  <div class="post-content">
-    {{ content | safe }}
-  </div>
-</article>
+	{% if excerpt %}
+		<div class="o-row">
+			<div class="o-row-container">
+				<div class="o-single__tldr">
+					<p>
+						{{ excerpt }}
+					</p>
+				</div>
+			</div>
+		</div>
+	{% endif %}
+
+
+	<div class="o-row">
+		<div class="o-row-container">
+			<div class="o-single__content">
+				{{ content | safe }}
+			</div>
+		</div>
+	</div>
+
+</div>
