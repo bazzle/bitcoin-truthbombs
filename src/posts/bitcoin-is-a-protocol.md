@@ -6,9 +6,9 @@ tags:
 modified: 2024-04-13
 block_height: 827307
 excerpt: "If I asked someone on the street what HTTP exactly does, I'd be impressed if they knew."
-permalink: bitcoin-is-a-protocol
+permalink: /bitcoin-is-a-protocol/
 image: bitcoin-symbol-2
-related_item: easy-and-hard-money
+related_item: /easy-and-hard-money/
 category:
     - Uncategorized
 ---
