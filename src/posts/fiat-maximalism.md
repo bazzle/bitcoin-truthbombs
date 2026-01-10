@@ -34,7 +34,7 @@ The level and voracity of fiat mind-control exposes an acute recency bias in us.
 
 In the timeline of humanity’s usage of rare commodities to solve the coincidence of wants problem, fiat money is a nothing but a tiny blip. From the usage of [Rai stones on Yap island](https://bitcoin-truthbombs.com/bitcoin-is-exploitation-resistant/) to Aggri beads, to precious metals such as silver and gold, rare commodities have been the dominant medium of exchange. Decided upon and incentivised by the free market for some 5000 years.
 
-**As soon as [Satoshi](https://bitcoin-truthbombs.com/who-is-satoshi-nakamoto/) mined the genesis block, the writing was on the wall. The start of the end of the unsustainable fiat monetary system, to be replaced by Bitcoin.**The resumption of a hard money standard for the digital age, based upon the principles of what defines the best form of money — valuable across time and space, scarcity, portability and immutability.**Money you can’t f\*\*k with**.
+**As soon as [Satoshi](https://bitcoin-truthbombs.com/who-is-satoshi-nakamoto/) mined the genesis block, the writing was on the wall. The start of the end of the unsustainable fiat monetary system, to be replaced by Bitcoin.**The resumption of a hard money standard for the digital age, based upon the principles of what defines the best form of money — valuable across time and space, scarcity, portability and immutability. **Money you can’t f\*\*k with**.
 
 It’s simply a matter of time for the fiat maximalists to see it.
 

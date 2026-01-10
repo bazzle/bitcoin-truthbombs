@@ -34,4 +34,4 @@ Much the same arguments I pose in my account of how Bitcoin and alts inhabit the
 
 Bitcoin on the other hand is a protocol in the pure sense. If new use-cases or features are proposed, the challenge is taken up to build applications that layer on top of Bitcoin. The shared incentives of the decentralised node operators on the network to reject fundamental changes, keeps the protocol largely unchanging and ossified, and as a result Bitcoin remains decentralised, secure and a perfect bedrock for a new ecosystem to flourish.
 
-\***HTTP** is a protocol for fetching resources such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser. Source :[mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+\***HTTP** is a protocol for fetching resources such as HTML documents. It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser. Source: [mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
