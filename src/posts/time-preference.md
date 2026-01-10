@@ -6,7 +6,7 @@ tags:
 modified: 2024-04-13
 block_height: 762412
 excerpt: 'A bitcoiner with a low time preference mentality will wait patiently for the irrational height of the bull market to sell some sats'
-permalink: /time-preference/
+permalink: time-preference
 image: bitcoin-symbol-2
 related_item: bitcoin-will-make-housing-affordable
 category:

@@ -6,7 +6,7 @@ tags:
 modified: 2024-04-13
 block_height: 831257
 excerpt: 'Before email, people would write eachother letters.'
-permalink: /bitcoin-is-email/
+permalink: bitcoin-is-email
 image: bitcoin-symbol-2
 related_item: bitcoin-is-a-protocol
 category:

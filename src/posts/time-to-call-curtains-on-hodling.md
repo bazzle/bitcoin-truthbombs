@@ -6,7 +6,7 @@ tags:
 modified: 2024-04-13
 block_height: 809275
 excerpt: "When you HODL, you move your stack to cold-storage and you don't think about selling. Might this strategy be damaging to bitcoin adoption?"
-permalink: /time-to-call-curtains-on-hodling/
+permalink: time-to-call-curtains-on-hodling
 image: bitcoin-symbol-2
 related_item: fiat-maximalism
 category:
