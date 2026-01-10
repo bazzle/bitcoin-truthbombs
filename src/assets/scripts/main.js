@@ -1,6 +1,5 @@
-import {BackTop, BackTopVisibility} from './BackTop.js';
 import {AddLoaded} from './AddLoaded.js';
+import {CurrentYear} from './CurrentYear.js';
 
-// BackTop();
-// BackTopVisibility();
-// AddLoaded();
+AddLoaded();
+CurrentYear();
