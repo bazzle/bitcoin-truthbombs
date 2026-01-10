@@ -1,6 +1,6 @@
 ---
 date: 2023-09-25
-title: "Time to call curtains on HODL&#8217;ing?"
+title: "Time to call curtains on HODLing?"
 tags:
   - posts
 modified: 2024-04-13
