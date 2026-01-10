@@ -14,7 +14,7 @@ category:
 ---
 
 
-When it comes to money, the mental model the masses of us have adopted — consciously or not, is that of[fiat](https://bitcoin-truthbombs.com/fiat-is-backed-by-debt/). This word is Latin for*Let it be done*. In other words, authorised and enforced by the state. Not backed by any precious commodity which money typically is backed by.
+When it comes to money, the mental model the masses of us have adopted — consciously or not, is that of [fiat](https://bitcoin-truthbombs.com/fiat-is-backed-by-debt/). This word is Latin for*Let it be done*. In other words, authorised and enforced by the state. Not backed by any precious commodity which money typically is backed by.
 
 **The tragedy of fiat is that we are conditioned to accept the fact that our central banks – duty bound by the state can, and do manipulate the money we trade our scarce time for.**We literally indebt ourselves to a system which is controlled by a small group of unelected money manipulators. Making decisions behind closed doors and affecting our lives more directly and profoundly than our democratically elected politicians are able to.
 
@@ -32,7 +32,7 @@ On the other side of the economic spectrum, a person living on the edge of their
 
 The level and voracity of fiat mind-control exposes an acute recency bias in us. In that the concept of fiat money is actually quite new, only fully actualised when then US president Nixon ended gold convertibility in 1971.
 
-In the timeline of humanity’s usage of rare commodities to solve the coincidence of wants problem, fiat money is a nothing but a tiny blip. From the usage of[Rai stones on Yap island](https://bitcoin-truthbombs.com/bitcoin-is-exploitation-resistant/)to Aggri beads, to precious metals such as silver and gold, rare commodities have been the dominant medium of exchange. Decided upon and incentivised by the free market for some 5000 years.
+In the timeline of humanity’s usage of rare commodities to solve the coincidence of wants problem, fiat money is a nothing but a tiny blip. From the usage of [Rai stones on Yap island](https://bitcoin-truthbombs.com/bitcoin-is-exploitation-resistant/) to Aggri beads, to precious metals such as silver and gold, rare commodities have been the dominant medium of exchange. Decided upon and incentivised by the free market for some 5000 years.
 
 **As soon as [Satoshi](https://bitcoin-truthbombs.com/who-is-satoshi-nakamoto/) mined the genesis block, the writing was on the wall. The start of the end of the unsustainable fiat monetary system, to be replaced by Bitcoin.**The resumption of a hard money standard for the digital age, based upon the principles of what defines the best form of money — valuable across time and space, scarcity, portability and immutability.**Money you can’t f\*\*k with**.
 

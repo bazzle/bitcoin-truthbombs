@@ -11,7 +11,7 @@ category:
 ---
 
 
-Knut Svanholm[link to article](https://bitcoinmagazine.com/culture/bitcoins-absolute-scarcity-changes-your-life)
+Knut Svanholm [link to article](https://bitcoinmagazine.com/culture/bitcoins-absolute-scarcity-changes-your-life)
 
 Inflationary fiat encourages high time-preference. Because you’re incentivised to spend and consume before you get robbed.
 

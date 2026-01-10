@@ -25,7 +25,7 @@ They might be able to capitalise at the right time in the bull market depending 
 
 Bitcoin is slow, steady and largely unchanging–characteristics that are necessary for bitcoin to be a monetary protocol, a base software and settlement layer that other things are built upon, and a trusted store of monetary value, important because nobody would want to put their life savings in a technology that is changing all the time at its core.
 
-On a regulatory level, bitcoin is regarded as a commodity, and so enjoys clarity in that regard. Through it’s[immaculate conception](https://bitcoin-truthbombs.com/immaculate-conception/), Bitcoin has become fully decentralised. Unlike most altcoins, there is no single authority on the network that issues new coins, and one bitcoin always equals one bitcoin—both differentiating factors in commodity and security classification.
+On a regulatory level, bitcoin is regarded as a commodity, and so enjoys clarity in that regard. Through it’s [immaculate conception](https://bitcoin-truthbombs.com/immaculate-conception/), Bitcoin has become fully decentralised. Unlike most altcoins, there is no single authority on the network that issues new coins, and one bitcoin always equals one bitcoin—both differentiating factors in commodity and security classification.
 
 On the fundamental level, Bitcoin has found its feet as a monetary protocol—a bedrock settlement layer which things are built upon. Decentralised enough to survive attempts by powerful external forces to censor, corrupt or change it in line with contemporary political virtues.
 
