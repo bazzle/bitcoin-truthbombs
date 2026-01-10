@@ -11,7 +11,7 @@
 			<link rel="canonical" href="{{ canonical }}" />
 		{% endif %}
 	</head>
-	<body>
+	<body class="{{ 'home' if page.url == '/' }}">
 		{% include "partials/header.njk" %}
 		<main id="main" class="o-main">
 			{{ content | safe }}
