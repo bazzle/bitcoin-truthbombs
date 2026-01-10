@@ -10,4 +10,3 @@ category:
   - Uncategorized
 ---
 
-# A Sly, Roundabout way

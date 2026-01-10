@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Fiat is debt, bitcoin is truth
 
 **If you take a loan for 100 thousand dollars at a bank**, that money is created through nothing more than moving around some money by tapping some digits onto a computer. A bank clerk can magic into existence a million dollars with the same amount of physical expenditure as it would take a hundred.
 

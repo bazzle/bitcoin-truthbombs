@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is transparent
 
 There is no assymetry of information. 1 hour mark here

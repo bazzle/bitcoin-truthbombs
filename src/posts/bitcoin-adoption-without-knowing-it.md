@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin adoption without knowing it
 
 Bitcoin as rails for settlements online, where both parties don’t even realise they are using bitcoin. British HODL talks about this.

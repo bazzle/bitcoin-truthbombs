@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is a Protocol
 
 Which is interesting because its something we interact with multiple times daily.
 
@@ -30,7 +29,7 @@ When developers have got comfortable building on a specific protocol, network ef
 
 **When it comes to crypto**, other blockchains, for example Ethereum can be described as protocols, as they are platforms that other things are built upon. But their characteristics ultimately define their integrity as protocols.
 
-Much the same arguments I pose in my account of how Bitcoin and alts inhabit the[Hare and Tortoise](https://bitcoin-truthbombs.com/the-hare-and-the-tortoise/)archetypes — are relevant in the protocol debate. Many pursue the model of building new features directly into the protocol itself, addressing use-cases rapidly and efficiently but resulting in a protocol that is in a constant state of flux, shaking the grounds which applications are trying to build an ecosystem on.
+Much the same arguments I pose in my account of how Bitcoin and alts inhabit the [Hare and Tortoise](https://bitcoin-truthbombs.com/the-hare-and-the-tortoise/) archetypes — are relevant in the protocol debate. Many pursue the model of building new features directly into the protocol itself, addressing use-cases rapidly and efficiently but resulting in a protocol that is in a constant state of flux, shaking the grounds which applications are trying to build an ecosystem on.
 
 Bitcoin on the other hand is a protocol in the pure sense. If new use-cases or features are proposed, the challenge is taken up to build applications that layer on top of Bitcoin. The shared incentives of the decentralised node operators on the network to reject fundamental changes, keeps the protocol largely unchanging and ossified, and as a result Bitcoin remains decentralised, secure and a perfect bedrock for a new ecosystem to flourish.
 

@@ -11,4 +11,3 @@ category:
     - Uncategorized
 ---
 
-# Incentives, not coercion

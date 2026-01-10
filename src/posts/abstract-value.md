@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Abstract value
 
 The well known tale of the Hare and the Tortoise tells us about opposing mindsets. The tortoise who is consistent, steadfast and humble and the hare who is narcisistic, showy and arrogant.
 

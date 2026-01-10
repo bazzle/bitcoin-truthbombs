@@ -11,7 +11,6 @@ category:
     - Uncategorized
 ---
 
-# Flies are only attracted to the broken eggs
 
 When FTX collapsed it was the second biggest crypto exchange. An exchange that went online as late as 2019, ten years after the first block was mined on the bitcoin network. How was this even possible? The answer is the perfect storm of an extremely inteligent and canny but sociopathic founder finding his feet in the unregulated wild-west crypto industry which allows these types to thrive, and seemingly unlimited funding from venture capitalists.
 

@@ -10,4 +10,3 @@ category:
     - Uncategorized
 ---
 
-# Crypto trilemma

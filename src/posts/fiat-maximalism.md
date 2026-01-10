@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Fiat maximalism
 
 When it comes to money, the mental model the masses of us have adopted — consciously or not, is that of[fiat](https://bitcoin-truthbombs.com/fiat-is-backed-by-debt/). This word is Latin for*Let it be done*. In other words, authorised and enforced by the state. Not backed by any precious commodity which money typically is backed by.
 

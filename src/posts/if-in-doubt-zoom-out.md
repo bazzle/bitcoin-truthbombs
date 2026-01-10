@@ -11,4 +11,3 @@ category:
     - Uncategorized
 ---
 
-# If in doubt, zoom out

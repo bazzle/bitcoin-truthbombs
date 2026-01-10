@@ -10,4 +10,3 @@ category:
     - Uncategorized
 ---
 
-# Fiat is exclusive, bitcoin is inclusive

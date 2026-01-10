@@ -13,7 +13,6 @@ category:
     - Uncategorized
 ---
 
-# Easy and Hard money
 
 **In his groundbreaking book **The Bitcoin Standard****, **Saifedean Ammous introduces the concept of easy and hard money**and how stock to flow is an effective barometer of how hard money is.
 

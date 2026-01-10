@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is Land
 
 The way we typically transfer physical cash has little resemblance to the way we transfer bitcoins. Physical cash is a bearer token. Alice pays Bob by handing him some number of tokens, such as dollar bills. By comparison, bitcoins don’t exist either physically or as digital data—​Alice can’t hand Bob some bitcoins or send them by email.
 

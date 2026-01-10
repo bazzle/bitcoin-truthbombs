@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# The journey from fiat max to bitcoin maxi
 
 1971 was the
 

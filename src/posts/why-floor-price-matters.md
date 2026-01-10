@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Why floor price matters
 
 Bitcoin demand cannot affect supply.
 

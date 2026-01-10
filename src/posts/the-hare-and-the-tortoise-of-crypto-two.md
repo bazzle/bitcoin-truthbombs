@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# The hare and the tortoise of crypto 2
 
 Crypto, with its catchy names, funky logos and irresistible tech talking points like transaction speeds, web3, smart contracts, dapps and dao’s, aswell as the attraction of staking yields and single day double-digit price movements create the environment where the high time preference crypto moonboy – – likes to inhabit.
 

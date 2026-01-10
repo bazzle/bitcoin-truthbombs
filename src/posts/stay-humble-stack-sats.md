@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Stay humble, stack sats
 
 Knowing all they have to do to achieve generational wealth is to ignore the rabble coming from the crypto casino and to keep buying bitcoin on a basis as consistent and unwavering as the stride of the tortoise in the well known tale.
 

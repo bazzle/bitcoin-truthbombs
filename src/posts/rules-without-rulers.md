@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Rules without rulers
 
 **In state socialism, power is in the hands of the ruling elite.**In capitalism, power gravitates towards those that hold the most capital and stake in the corporations that are able to exert power over the people through their monopolies. Regardless of the political philosophy, the fate of the many is nearly always dictated by the few. In anarchism, power hierarchies are broken up and rules are made by consensus. Along these lines a distinction can be made between ruler based systems and consensus based systems.
 

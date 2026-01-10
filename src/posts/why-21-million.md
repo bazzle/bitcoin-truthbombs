@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# Why 21 million?
 
 Something about 21 shillings to a guinea.

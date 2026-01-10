@@ -10,4 +10,3 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is financial gunpowder

@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# infinite assets, scarce money
 
 The cost of everything goes down forever.
 

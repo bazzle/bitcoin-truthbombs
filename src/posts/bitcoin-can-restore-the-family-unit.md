@@ -10,4 +10,3 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin can restore the family unit

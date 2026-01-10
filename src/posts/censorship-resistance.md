@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Censorship resistance
 
 One of the great attributes about bitcoin that we keep hearing about is censorship resistance. But what does this really mean, in relation to Bitcoin.
 

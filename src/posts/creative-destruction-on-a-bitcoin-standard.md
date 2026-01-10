@@ -10,4 +10,3 @@ category:
     - Uncategorized
 ---
 
-# Creative destruction on a bitcoin standard

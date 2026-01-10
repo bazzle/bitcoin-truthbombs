@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Social media is trash
 
 You might think… Social media was supposed to bring in a new paradigm of self-expression. And for the most part it has. It has given everyone a voice and a platform to show themselves to the world in a very efficient and accessible way. But censorship by governments and the commercial interests of the centralised platforms that people use to broadcast their messages have disrupted and degraded the medium. Financialisation has turned the messages into a commodity and in turn made it a dishonest form of expression. With clicks, ad views and algorithm appeasement the ultimate goal. Visibility of the message has become more important than the message itself.
 

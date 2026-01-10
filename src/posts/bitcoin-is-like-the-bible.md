@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is like the bible
 
 Article idea – Bitcoin is like the bible. Immutable, distributed, just information, a different version of the bible can be made, but how are you going to replace every single single version of the bible in existence. It will likely get rejected.

@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Money as expression
 
 But if we think of self-expression as a signal, the signal we give off to the world through these means might not transmit as clearly as we think it does. We don’t tend to think of money as a form of expression, but due to its unique traits, money is actually**the**most truthful medium by which we express ourselves. Consciously or not we express who we are every time we reach for our wallet or credit card to buy something. We express what we truly value through the expenditure of our hard earned money, because we know we’ve traded our time for that money, and our time in precious to us.
 

@@ -11,7 +11,6 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin security
 
 Joe “Pomp” Pompliano had an excellent way of explaining Bitcoin security in his podcast. When asked about whether crypto noobs/fudders know the difference between an exchange being hacked and bitcoin being hacked.
 

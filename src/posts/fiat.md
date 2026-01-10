@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Fiat
 
 Introduce what fiat it is, how it’s broken. Negative incentives it breeds.
 

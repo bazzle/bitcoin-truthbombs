@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# Number go Up
 
 Bitcoins marketing strategy

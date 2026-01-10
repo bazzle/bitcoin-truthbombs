@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Immaculate conception
 
 Some bitcoin plebs draw parallels between bitcoin and religion, usually in a tongue-in-cheek manner. Unsurprisingly, bitcoin is just a tool. Nothing more than a shining example of what humanity is capable of with the coming together of brilliant minds. But one prevailing aspect is Immaculate Conception. What does this mean in relation to bitcoin?
 

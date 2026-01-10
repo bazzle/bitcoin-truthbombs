@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Time to call curtains on HODL&#8217;ing? Part 2
 
 In part 1, I spoke about the effects of HODL’ing bitcoin to achieve wealth for the self and future generations, promote low time preference thinking and presented a counter argument that HODL’ing might not always be the right approach for the best outcomes. Now I zoom out and think about the effects of HODL’ing through the lens of bitcoin adoption and the principles and goals bitcoin as a money and protocol align with.
 

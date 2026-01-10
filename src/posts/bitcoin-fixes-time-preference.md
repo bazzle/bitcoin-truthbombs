@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin fixes time preference
 
 Knut Svanholm[link to article](https://bitcoinmagazine.com/culture/bitcoins-absolute-scarcity-changes-your-life)
 

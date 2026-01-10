@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is financial gunpowder
 
 **Ever since humans started developing cognitive abilities, they have invented and used tools to survive**. Through years of trial and error, the best tools have sustained and the methods to build them have spread amongst tribes. One such tool was fire. Those who figured out how to make use of fire survived in the battle against nature. They stayed warm at night, had light to find the way and deterred predators. Those who relied upon their time honoured method of waving around a club ultimately became extinct.
 

@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Who is Satoshi Nakamoto
 
 **Simply, no one really knows who the creator of Bitcoin is.** Satoshi Nakamoto is the pseudonym for the person who authored the bitcoin white-paper and wrote and uploaded the first version of the software. Satoshi could be a man, woman or group of people. The fact is, Satoshi was so good at hiding his identity, even those that worked with him in creating bitcoin had no idea who he actually was. So speculating on his true identity based on what we know in the public domain is totally fruitless.
 

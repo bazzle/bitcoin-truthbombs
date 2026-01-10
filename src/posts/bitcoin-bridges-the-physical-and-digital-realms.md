@@ -10,4 +10,3 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin bridges the physical and digital realms.

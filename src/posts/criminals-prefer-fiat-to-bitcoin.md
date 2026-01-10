@@ -10,4 +10,3 @@ category:
     - Uncategorized
 ---
 
-# Criminals prefer fiat to bitcoin

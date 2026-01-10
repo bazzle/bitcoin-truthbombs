@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is nowhere
 
 Bitcoin is not a bearer asset. When you “receive” bitcoin, you don’t actually receive any bitcoin. Bitcoin has no physical nor digital form.
 

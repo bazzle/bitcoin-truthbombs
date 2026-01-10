@@ -11,7 +11,6 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is digitised energy
 
 Bitcoin, with its proof of work concensus mechanism ensures that every coin, at its creation has been minted through a certain amount of physical work/energy expended. This anchors bitcoin to the physical world, ensuring immutable transferrence of value from physical work into money, and prevents some people getting money for nothing. Like the cantillionnaires close to the “Magic money tree” or money printer of the fiat financial system. In other words, proof of work
 

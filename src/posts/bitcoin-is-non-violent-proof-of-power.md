@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is non-violent Proof of Power
 
 Survivorship bias

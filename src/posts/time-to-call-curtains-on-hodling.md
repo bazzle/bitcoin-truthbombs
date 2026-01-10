@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Time to call curtains on HODL&#8217;ing?
 
 You could say HODL’ing is just plebs practicing their basic right to save the fruit of their labour in a money that doesn’t rob from them. Which is one of the most compelling value propositions for bitcoin. Many plebs think of bitcoin as one half of the oddly symbiotic relationship between bitcoin and fiat — **spend in fiat, save in bitcoin**.
 

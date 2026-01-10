@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Only when the tide goes out you discover who&#8217;s been swimming naked
 
 It is perfect to describe the recurring theme of centralised crypto entities who flourish when times are good, only to find their shaky foundations, supported by floods of liquidity during the good times, exposed in the retreating tide of the crypto winter.
 

@@ -12,7 +12,6 @@ category:
   - Uncategorized
 ---
 
-# Bitcoin is email
 
 A laborious process by todays’ standards — of writing the thing, putting it in an envelope, sticking on a stamp, carefully writing the address, taking it to the mailbox and putting blind faith in the postal service that it would reach its intended recipient.
 

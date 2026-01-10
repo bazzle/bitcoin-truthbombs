@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin obseletes all other forms of money
 
 https://unchained.com/blog/bitcoin-obsoletes-all-other-money/

@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# Fiat is a pyramid scheme
 
 [Link to YT](https://www.youtube.com/watch?v=s_0ggp41rT4&list=PLY2iemXCSz6FcGkvjkDlIi93W-yrM22ZA&index=1)

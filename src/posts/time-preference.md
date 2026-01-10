@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Time Preference
 
 Some true plebs won’t sell at all, knowing their bitcoin is more valuable than any material thing they could buy with it. Providing generational wealth in a scarce asset that will gain value over time.
 

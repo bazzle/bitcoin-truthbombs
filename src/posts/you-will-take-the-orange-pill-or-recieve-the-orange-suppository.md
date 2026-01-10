@@ -10,4 +10,3 @@ category:
     - Uncategorized
 ---
 
-# you will take the orange pill or recieve the orange suppository

@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Why bitcoin is not too expensive
 
 Bitcoins “marketing strategy” is its NGU technology.
 

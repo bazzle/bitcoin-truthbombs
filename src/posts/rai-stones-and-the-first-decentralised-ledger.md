@@ -11,4 +11,3 @@ category:
     - Uncategorized
 ---
 
-# Rai stones and the first decentralised ledger

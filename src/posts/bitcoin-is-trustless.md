@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is trustless
 
 **If a perfect money existed, it would allow people who don’t know eachother to transact without the need to trust an intermediary to facilitate it.**
 

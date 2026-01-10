@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# Bigger numbers bring bigger numbers
 
 Bitcoin game theory, institutions don’t get in on bitcoin until market cap is big enough. Gradually, then suddenly.

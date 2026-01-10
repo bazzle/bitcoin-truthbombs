@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# What is monetary inflation and why does the fiat monetary system depend on it
 
 Deficit spending.
 

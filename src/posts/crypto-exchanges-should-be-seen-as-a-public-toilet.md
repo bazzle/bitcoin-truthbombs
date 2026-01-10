@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# Crypto exchanges should be seen as a public toilet
 
 You go in, do your business, you don’t want to hang about in there!

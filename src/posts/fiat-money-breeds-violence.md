@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Fiat money breeds violence
 
 Bitcoin is peace.
 

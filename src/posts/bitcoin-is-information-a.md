@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is information
 
 Bitcoin has no physical body.

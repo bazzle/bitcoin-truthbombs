@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is a better measuring stick than fiat
 
 **Money needs to be elastic? Needs to expand ??**
 

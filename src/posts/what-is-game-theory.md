@@ -11,7 +11,6 @@ category:
     - Uncategorized
 ---
 
-# Game Theory
 
 In the past decade, thanks to the ever-increasing popularity of Bitcoin, blockchain technology has attracted a significant degree of attention from both academia and industry. Generally speaking, blockchain is identified as the technology behind Bitcoin.
 

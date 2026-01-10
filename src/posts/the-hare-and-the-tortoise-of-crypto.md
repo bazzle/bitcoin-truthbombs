@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# The hare and the tortoise of crypto
 
 The dichotomy between these two and the way the race plays out is analogous to Bitcoin and altcoins. In terms of their design and intended use cases, the narratives that form around them, and the people they tend to attract.
 

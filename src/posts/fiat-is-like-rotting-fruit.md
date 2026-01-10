@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Fiat is like rotting fruit
 
 Talk about how fruit is a bad medium of exchange, because it doesn’t have have value across time. The value of an apple goes down as the days go by because it loses its juiciness, it wilts and rots.
 

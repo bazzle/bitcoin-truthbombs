@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Don&#8217;t trade your time for something that can be created for free
 
 Scarcity is an attribute that anything can have, and generally speaking if that thing is scarce it is valued and sought after more. This can be said about a collectible, a person who is one of a kind, a unique experience, or being in love — because finding someone you love doesn’t happen regularly, it is strong, binding and holds a lot of value.
 

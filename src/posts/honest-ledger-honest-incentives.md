@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# Honest Ledger, honest incentives
 
 Dishonest ledger, dishonest incentives

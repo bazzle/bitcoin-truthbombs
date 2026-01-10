@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin maximalism
 
 Let’s talk about the former first. Nearly every new bitcoiner is a fiat maximalist and that’s ok. The sad fact is, the fiat monopoly in just about every nation on the planet has resulted in fiat maximalism being the default state for the billions of working people around the world. To this end we are all fiat maximalists as we trade our time and energy for for fiat simply because there is no other choice. The only exception are the most hardcore bitcoin plebs who earn and spend on a bitcoin standard. Doing this is still a pipe dream for most people.
 

@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is decentralised
 
 Why is that important?
 

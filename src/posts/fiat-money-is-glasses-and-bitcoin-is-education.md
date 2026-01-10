@@ -12,7 +12,6 @@ category:
     - Uncategorized
 ---
 
-# Fiat money is glasses and bitcoin is education
 
 This is Robert Breedlove’s analogy which I think is perfect to describe people’s relationship and understanding of money.
 

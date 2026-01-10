@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Bitcoin is minimalism
 
 bitcoin is healing for the planet, and promotes minimalism.
 

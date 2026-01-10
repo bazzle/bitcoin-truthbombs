@@ -10,7 +10,6 @@ category:
     - Uncategorized
 ---
 
-# Fiat maximalism 2
 
 Fiat maximalism describes people who think bitcoin and crypto as nothing more than investments, and that money can be nothing else but fiat.
 

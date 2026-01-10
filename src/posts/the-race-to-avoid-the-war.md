@@ -10,4 +10,3 @@ category:
     - Uncategorized
 ---
 
-# The race to avoid the war

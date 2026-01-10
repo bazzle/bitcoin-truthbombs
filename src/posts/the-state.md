@@ -10,6 +10,5 @@ category:
     - Uncategorized
 ---
 
-# The state
 
 boil down the book.

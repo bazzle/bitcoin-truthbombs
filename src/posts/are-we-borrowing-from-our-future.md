@@ -11,7 +11,6 @@ category:
     - Uncategorized
 ---
 
-# Borrowing from our future
 
 The perhaps unexpected answer is, our children. Through the hidden tax that is inflation. Just like is happening now, our children will have to work harder and harder to maintain their quality of life. As the money they are being paid in loses value in real terms, at an ever increasing rate. Future generations will be paying for the unhinged expansion of the money supply that our governments and central banks are partaking in right now.
 
