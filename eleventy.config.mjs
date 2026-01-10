@@ -1,4 +1,5 @@
 import markdownIt from "markdown-it";
+import { format } from "date-fns";
 
 export default function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy({
@@ -19,6 +20,13 @@ export default function(eleventyConfig) {
 			linkify: true,
 		})
 	);
+	eleventyConfig.addFilter("prettyDate", (value) =>
+		format(new Date(value), "MMMM do, yyyy")
+	);
+	eleventyConfig.addFilter("numericDate", (value) => {
+	if (!value) return "";
+	return format(new Date(value), "dd.MM.yyyy");
+	});
 	const pathPrefix = "/";
 	return {
 		pathPrefix: pathPrefix,
