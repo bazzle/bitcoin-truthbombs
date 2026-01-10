@@ -2,6 +2,7 @@
 layout: layouts/base.njk
 ---
 
+
 <div class="o-single">
 	<div class="o-row o-single__hero {{ 'o-single__hero--image' if image else 'o-single__hero--no-image' }}">
 		<div class="o-row-container--wide o-single__hero__container">
@@ -58,12 +59,9 @@ layout: layouts/base.njk
 	</div>
 
 	{% if related_item %}
-		{% set related_post = collections.posts | selectattr("fileSlug", "equalto", related_item) | first %}
-		{% if not related_post %}
-			{% set related_post = collections.posts | selectattr("url", "equalto", "/" ~ related_item ~ "/") | first %}
-		{% endif %}
+		{% set related_post = related_item and (collections.posts | byUrl(related_item | trim)) %}
 		{% if related_post %}
-			{% include "partials/related_item.njk" %}
+			{% include 'partials/related_item.njk' %}
 		{% endif %}
 	{% endif %}
 

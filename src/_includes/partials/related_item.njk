@@ -1,7 +1,6 @@
 <div class="o-row o-row--nomargin-bottom">
 	<div class="o-row-container">
 		<div class="c-linked-item">
-
 			{% if related_post.data.image %}
 				<div class="c-linked-item__thumb">
 					<img src="/assets/img/featured/{{ related_post.data.image }}.jpg" alt="{{ related_post.data.title }}">
@@ -14,7 +13,7 @@
 				</p>
 				<h2 class="c-linked-item__title">
 					{{ related_post.data.title }}
-					<a class="c-linked-item__title__link" href="{{ related_post.data.permalink or related_post.url }}">
+					<a class="c-linked-item__title__link" href="{{ related_post.data.permalink }}">
 						<span class="visually-hidden">Read about {{ related_post.data.title }}</span>
 					</a>
 				</h2>

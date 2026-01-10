@@ -27,6 +27,9 @@ export default function(eleventyConfig) {
 	if (!value) return "";
 	return format(new Date(value), "dd.MM.yyyy");
 	});
+	eleventyConfig.addFilter("byUrl", (items, url) =>
+		(items || []).find(p => p.url === url)
+	);
 	const pathPrefix = "/";
 	return {
 		pathPrefix: pathPrefix,
