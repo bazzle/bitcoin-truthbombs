@@ -58,7 +58,13 @@ layout: layouts/base.njk
 	</div>
 
 	{% if related_item %}
-		{% include "partials/related_item.njk" %}
+		{% set related_post = collections.posts | selectattr("fileSlug", "equalto", related_item) | first %}
+		{% if not related_post %}
+			{% set related_post = collections.posts | selectattr("url", "equalto", "/" ~ related_item ~ "/") | first %}
+		{% endif %}
+		{% if related_post %}
+			{% include "partials/related_item.njk" %}
+		{% endif %}
 	{% endif %}
 
 </div>

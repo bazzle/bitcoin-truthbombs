@@ -1,0 +1,29 @@
+<div class="o-row o-row--nomargin-bottom">
+	<div class="o-row-container">
+		<div class="c-linked-item">
+
+			{% if related_post.data.image %}
+				<div class="c-linked-item__thumb">
+					<img src="/assets/img/featured/{{ related_post.data.image }}.jpg" alt="{{ related_post.data.title }}">
+				</div>
+			{% endif %}
+			<div class="c-linked-item__main">
+				<p class="c-linked-item__leadin">
+					Next truthbomb
+					<svg width="10" height="9" viewBox="0 0 10 9" xmlns="http://www.w3.org/2000/svg"><path d="M4.3662 2.62658V0.5L10 4.44937L4.3662 8.5V6.17089H0V2.62658H4.3662Z"/></svg>
+				</p>
+				<h2 class="c-linked-item__title">
+					{{ related_post.data.title }}
+					<a class="c-linked-item__title__link" href="{{ related_post.data.permalink or related_post.url }}">
+						<span class="visually-hidden">Read about {{ related_post.data.title }}</span>
+					</a>
+				</h2>
+				{% if related_post.data.excerpt %}
+					<div class="c-linked-item__excerpt">
+						<p>{{ related_post.data.excerpt }}</p>
+					</div>
+				{% endif %}
+			</div>
+		</div>
+	</div>
+</div>
