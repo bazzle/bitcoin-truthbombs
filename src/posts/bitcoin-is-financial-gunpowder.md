@@ -8,6 +8,7 @@ block_height: 832536
 excerpt: 'This truthbomb from Saifedean Ammous, describes how bitcoin adoption is comparable to that of tools like fire, electricity and gunpowder.'
 permalink: /bitcoin-is-financial-gunpowder/
 image: bitcoin-symbol-2
+related_item: bitcoin-is-email
 category:
     - Uncategorized
 ---
