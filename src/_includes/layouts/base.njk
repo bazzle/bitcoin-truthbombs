@@ -4,7 +4,15 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>{{ title }}</title>
-		<meta name="description" content="{{ description }}">
+		{% set metaDescription =
+			excerpt
+			or description
+			or site.description
+		%}
+
+		{% if metaDescription %}
+			<meta name="description" content="{{ metaDescription | striptags | escape }}">
+		{% endif %}
 		<link rel="stylesheet" href="/assets/styles/main.css" />
 		<script type="module" src="/assets/scripts/main.js" defer></script>
 		{% if canonical %}
