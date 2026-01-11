@@ -1,0 +1,17 @@
+<div class="o-header__title__inner">
+	<div class="o-header__site-name">
+		{% if page.url == '/' %}
+			<div class="o-header__logo">
+				{% include "partials/logo.njk" %}
+			</div>
+		{% endif %}
+		<span>
+			{{ site.name }}
+		</span>
+	</div>
+	{% if site.tagline %}
+		<span class="o-header__site-tagline">
+			{{ site.tagline }}
+		</span>
+	{% endif %}
+</div>
