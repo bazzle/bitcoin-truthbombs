@@ -8,7 +8,7 @@ block_height: 772224
 excerpt: 'Immaculate conception of bitcoin describes the way the technology was created, and how the environment it was created in can never return'
 permalink: /immaculate-conception/
 related_item: /rules-without-rulers/
-image: bitcoin-symbol-2
+image: conception
 category:
     - Uncategorized
 ---

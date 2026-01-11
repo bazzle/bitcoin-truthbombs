@@ -8,7 +8,7 @@ block_height: 775147
 excerpt: 'One of the fundamental properties of bitcoin, but what does this actually mean? and why does it matter.'
 permalink: /bitcoin-is-trustless/
 related_item: /immaculate-conception/
-image: bitcoin-symbol-2
+image: bitcoin-symbol-3
 category:
     - Uncategorized
 ---

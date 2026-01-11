@@ -7,8 +7,8 @@ modified: 2024-04-13
 block_height: 767378
 excerpt: 'The irresistable question is still not answered and probably never will be.'
 permalink: /who-is-satoshi-nakamoto/
-image: bitcoin-symbol-2
-related-item: bitcoin-will-make-housing-affordable
+related_item: /bitcoin-will-make-housing-affordable/
+image: question-head
 category:
     - Uncategorized
 ---

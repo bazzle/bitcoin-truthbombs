@@ -8,7 +8,7 @@ block_height: 764767
 excerpt: 'Many people wear glasses for most of their waking hours. But how many times do they take them off and look at them. Not a lot, if hardly ever.'
 permalink: /fiat-money-is-glasses-and-bitcoin-is-education/
 related_item: /fiat-is-backed-by-debt/
-image: bitcoin-symbol-2
+image: glasses
 category:
     - Uncategorized
 ---

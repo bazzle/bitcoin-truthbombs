@@ -8,7 +8,7 @@ block_height: 781191
 excerpt: 'Fiat maximalism describes mind-control of the masses towards loyalty of government issued money. And scepticism towards alternatives.'
 permalink: /fiat-maximalism/
 related_item: /bitcoin-is-trustless/
-image: bitcoin-symbol-2
+image: dollar
 category:
     - Uncategorized
 ---

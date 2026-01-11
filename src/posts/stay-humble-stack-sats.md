@@ -7,7 +7,7 @@ modified: 2024-04-13
 block_height: 763421
 excerpt: "Stay humble, stack sats describes the behaviour of low time preference bitcoiners who aren't blinded by the short term desire to capitalise, and consistently dollar cost average"
 permalink: /stay-humble-stack-sats/
-image: bitcoin-symbol-2
+image: tortoise
 related_item: /only-when-the-tide-goes-out-do-you-discover-whos-been-swimming-naked/
 category:
     - Uncategorized
