@@ -1,75 +1,88 @@
 @use "../all-vars" as *;
 
-.c-linked-item{
-    @include gap(margin-top, 2);
-    border-bottom: 1px solid $color-accent;
-    border-top: 1px solid $color-accent;
-    display: flex;
-    flex-direction: column;
-    @include break(tablet){
-        flex-direction: row;
-    }
-    padding-top: 2.5rem;
-    padding-bottom: 2.5rem;
-    gap: 2.5rem;
-    position: relative;
-  &__main{
-    //display: flex;
-    flex-direction: column;
-    gap: $gap;
-  }
-  &__thumb{
-    flex-shrink: 0;
-    @include break(tablet){
-      max-width: 33%;
-  }
-    img{
-        width: 100%;
-        aspect-ratio: 64/36;
-        position: relative;
-        object-fit: cover;
-    }
-  }
-  &__title{
-    @include text-linked-item-heading;
-    &__link{
-        position: absolute;
-        left: 0;
-        top: 0;
-        width: 100%;
-        height: 100%;
-        z-index: 1;
-        display: block;
-    }
-  }
-  &__leadin {
-    color: $color-primary;
-    @include text-blocky;
-    svg{
-        fill: currentColor;
-    }
-  }
-  &__excerpt {
-    flex-grow: 1;
-    p{
-        max-width: 600px;
-    }
-  }
-  &__cta {
-    gap: 3rem;
-    display: flex;
-    align-items: center;
+.c-linked-item {
+	@include gap(margin-top, 2);
+	border-bottom: 1px solid $color-accent;
+	border-top: 1px solid $color-accent;
+	display: flex;
+	flex-direction: column;
 
-    &__button {
-      flex-shrink: 0;
-    }
+	@include break(tablet) {
+		flex-direction: row;
+	}
 
-    &::after {
-      display: block;
-      content: '';
-      width: 100%;
-      height: 1px;
-      background-color: $color-accent;
-    }
-  }
+	padding-top: 2.5rem;
+	padding-bottom: 2.5rem;
+	gap: 2.5rem;
+	position: relative;
+
+	&__main {
+		//display: flex;
+		flex-direction: column;
+		gap: $gap;
+	}
+
+	&__thumb {
+		flex-shrink: 0;
+
+		@include break(tablet) {
+			max-width: 33%;
+		}
+
+		img {
+			width: 100%;
+			aspect-ratio: 64/36;
+			position: relative;
+			object-fit: cover;
+		}
+	}
+
+	&__title {
+		@include text-linked-item-heading;
+
+		&__link {
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			z-index: 1;
+			display: block;
+		}
+	}
+
+	&__leadin {
+		color: $color-primary;
+		@include text-blocky;
+
+		svg {
+			fill: currentColor;
+		}
+	}
+
+	&__excerpt {
+		flex-grow: 1;
+
+		p {
+			max-width: 600px;
+		}
+	}
+
+	&__cta {
+		gap: 3rem;
+		display: flex;
+		align-items: center;
+
+		&__button {
+			flex-shrink: 0;
+		}
+
+		&::after {
+			display: block;
+			content: '';
+			width: 100%;
+			height: 1px;
+			background-color: $color-accent;
+		}
+	}
 }

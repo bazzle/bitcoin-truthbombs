@@ -1,47 +1,54 @@
 @use "../all-vars" as *;
 
 .o-row {
-  width: 100%;
-  @include gap(margin-top);
-  @include gap(margin-bottom);
-  @include padding-loose;
-  &--nomargin {
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-  &--nomargin-top {
-    margin-top: 0;
-  }
-  &--nomargin-bottom {
-    margin-bottom: 0;
-  }
-  &--no-padding {
-    padding: 0;
-  }
+	width: 100%;
+	@include gap(margin-top);
+	@include gap(margin-bottom);
+	@include padding-loose;
 
-  &--no-padding__left {
-    padding-left: 0;
-  }
+	&--nomargin {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
 
-  &--no-padding__right {
-    padding-right: 0;
-  }
+	&--nomargin-top {
+		margin-top: 0;
+	}
+
+	&--nomargin-bottom {
+		margin-bottom: 0;
+	}
+
+	&--no-padding {
+		padding: 0;
+	}
+
+	&--no-padding__left {
+		padding-left: 0;
+	}
+
+	&--no-padding__right {
+		padding-right: 0;
+	}
 }
 
 .o-row-container {
-  max-width: $site-width-narrow;
-  margin-right: auto;
-  margin-left: auto;
-  &--wide{
-    @extend .o-row-container;
-    max-width: $site-width-wide;
-  }
-  &--wider{
-    @extend .o-row-container;
-    max-width: $site-width-wider;
-  }
-  &--full{
-    @extend .o-row-container;
-    max-width: unset;
-  }
+	max-width: $site-width-narrow;
+	margin-right: auto;
+	margin-left: auto;
+
+	&--wide {
+		@extend .o-row-container;
+		max-width: $site-width-wide;
+	}
+
+	&--wider {
+		@extend .o-row-container;
+		max-width: $site-width-wider;
+	}
+
+	&--full {
+		@extend .o-row-container;
+		max-width: unset;
+	}
 }

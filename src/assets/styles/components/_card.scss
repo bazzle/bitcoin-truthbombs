@@ -1,65 +1,75 @@
 @use "../all-vars" as *;
 
-.c-card{
-  border-bottom: 1px solid $color-accent;
-  background-color: $color-bg-2;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  position: relative;
-  &:last-of-type{
-    border-bottom: 0;
-  }
-  &__main{
-    padding: $gap;
-    border-top: 1px solid $color-primary;
-  }
-  &__title{
-    @include text-card-heading;
-    &__link{
-        position: absolute;
-        left: 0;
-        top: 0;
-        width: 100%;
-        height: 100%;
-        z-index: 1;
-    }
-  }
-  &__thumb{
-    aspect-ratio: 64/36;
-    background-color: rgba($color-accent, .1);
-    background: $gradient;
-    img{
-      aspect-ratio: 64/36;
-      object-fit: cover;
-    }
-  }
-  &__metadata{
-    @include text-meta-tiny;
-    padding: $gap 0;
-    &__item{
-      display: inline;
-    }
-  }
-  &__excerpt {
-    flex-grow: 1;
-    @include text-card-excerpt;
-  }
-  &__cta {
-    gap: 3rem;
-    display: flex;
-    align-items: center;
+.c-card {
+	border-bottom: 1px solid $color-accent;
+	background-color: $color-bg-2;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	position: relative;
 
-    &__button {
-      flex-shrink: 0;
-    }
+	&:last-of-type {
+		border-bottom: 0;
+	}
 
-    &::after {
-      display: block;
-      content: '';
-      width: 100%;
-      height: 1px;
-      background-color: $color-accent;
-    }
-  }
+	&__main {
+		padding: $gap;
+		border-top: 1px solid $color-primary;
+	}
+
+	&__title {
+		@include text-card-heading;
+
+		&__link {
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			z-index: 1;
+		}
+	}
+
+	&__thumb {
+		aspect-ratio: 64/36;
+		background-color: rgba($color-accent, .1);
+		background: $gradient;
+
+		img {
+			aspect-ratio: 64/36;
+			object-fit: cover;
+		}
+	}
+
+	&__metadata {
+		@include text-meta-tiny;
+		padding: $gap 0;
+
+		&__item {
+			display: inline;
+		}
+	}
+
+	&__excerpt {
+		flex-grow: 1;
+		@include text-card-excerpt;
+	}
+
+	&__cta {
+		gap: 3rem;
+		display: flex;
+		align-items: center;
+
+		&__button {
+			flex-shrink: 0;
+		}
+
+		&::after {
+			display: block;
+			content: '';
+			width: 100%;
+			height: 1px;
+			background-color: $color-accent;
+		}
+	}
 }
